@@ -159,43 +159,6 @@ jobs:
           name: json_batch5
           path: json/
 
-
-# -------------------------
-# MERGER
-# -------------------------
-  merger:
-    needs:
-      - controller
-      - scraper_1
-      - scraper_2
-      - scraper_3
-      - scraper_4
-      - scraper_5
-    if: needs.controller.outputs.run_scraper == 'true'
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-
-      - uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-
-      - name: Download artifacts
-        uses: actions/download-artifact@v4
-        with:
-          path: json_artifacts
-
-      - name: Move JSON files
-        run: |
-          mkdir -p json
-          find json_artifacts -name "*.json" -exec cp {} json/ \;
-
-      - name: Run merger
-        run: python merger.py
-
 # -------------------------
 # MERGER
 # -------------------------
