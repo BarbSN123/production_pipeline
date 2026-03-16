@@ -1,0 +1,197 @@
+name: BBQ Scraper Production
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'   # trigger every hour
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bbq-production
+  cancel-in-progress: false
+
+jobs:
+
+# -------------------------
+# CONTROLLER (random trigger)
+# -------------------------
+  controller:
+    runs-on: ubuntu-latest
+    outputs:
+      run_scraper: ${{ steps.random.outputs.run }}
+
+    steps:
+      - name: Decide whether to run scraper
+        id: random
+        run: |
+          r=$((RANDOM % 100))
+          echo "Random number: $r"
+          if [ $r -lt 100 ]; then
+            echo "run=true" >> $GITHUB_OUTPUT
+          else
+            echo "run=false" >> $GITHUB_OUTPUT
+          fi
+
+# -------------------------
+# JOB 1 (Branches 1–12)
+# -------------------------
+  scraper_1:
+    needs: controller
+    if: needs.controller.outputs.run_scraper == 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Run scraper batch 1
+        run: python main_prod.py 0 12
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: json_batch1
+          path: json/
+
+# -------------------------
+# JOB 2 (13–24)
+# -------------------------
+  scraper_2:
+    needs: controller
+    if: needs.controller.outputs.run_scraper == 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Run scraper batch 2
+        run: python main_prod.py 12 24
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: json_batch2
+          path: json/
+
+# -------------------------
+# JOB 3 (25–36)
+# -------------------------
+  scraper_3:
+    needs: controller
+    if: needs.controller.outputs.run_scraper == 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Run scraper batch 3
+        run: python main_prod.py 24 36
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: json_batch3
+          path: json/
+
+# -------------------------
+# JOB 4 (37–48)
+# -------------------------
+  scraper_4:
+    needs: controller
+    if: needs.controller.outputs.run_scraper == 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Run scraper batch 4
+        run: python main_prod.py 36 48
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: json_batch4
+          path: json/
+
+# -------------------------
+# JOB 5 (49–50)
+# -------------------------
+  scraper_5:
+    needs: controller
+    if: needs.controller.outputs.run_scraper == 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Run scraper batch 5
+        run: python main_prod.py 48 50
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: json_batch5
+          path: json/
+
+# -------------------------
+# MERGER
+# -------------------------
+  merger:
+    needs:
+      - scraper_1
+      - scraper_2
+      - scraper_3
+      - scraper_4
+      - scraper_5
+    runs-on: ubuntu-latest
+    if: needs.scraper_1.result == 'success'
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: json_artifacts
+
+      - name: Move JSON files
+        run: |
+          mkdir -p json
+          find json_artifacts -name "*.json" -exec cp {} json/ \;
+
+      - name: Run merger
+        run: python merger.py
+
+      - name: Commit merged JSON files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add json/
+          git commit -m "Auto update buffet data" || echo "No changes to commit"
+          git push
