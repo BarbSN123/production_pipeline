@@ -196,7 +196,7 @@ jobs:
       - name: Run merger
         run: python merger.py
 
-      - # -------------------------
+# -------------------------
 # MERGER
 # -------------------------
   merger:
