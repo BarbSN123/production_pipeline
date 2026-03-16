@@ -3,14 +3,15 @@ name: BBQ Scraper Production
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'   # every hour
+    - cron: '0 * * * *'
 
 permissions:
   contents: write
 
 concurrency:
   group: bbq-production
-  cancel-in-progress: false
+  cancel-in-progress: true
+
 
 jobs:
 
@@ -36,12 +37,21 @@ jobs:
 
 
 # -------------------------
-# SCRAPER 1
+# SCRAPERS (parallel)
 # -------------------------
-  scraper_1:
+  scraper:
     needs: controller
     if: needs.controller.outputs.run_scraper == 'true'
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        batch:
+          - "0 12"
+          - "12 24"
+          - "24 36"
+          - "36 48"
+          - "48 50"
 
     steps:
       - uses: actions/checkout@v4
@@ -52,116 +62,15 @@ jobs:
 
       - run: pip install requests
 
-      - name: Run scraper batch 1
-        run: python main_prod.py 0 12
+      - name: Run scraper
+        run: |
+          start=$(echo ${{ matrix.batch }} | cut -d' ' -f1)
+          end=$(echo ${{ matrix.batch }} | cut -d' ' -f2)
+          python main_prod.py $start $end
 
       - uses: actions/upload-artifact@v4
         with:
-          name: json_batch1
-          path: json/
-
-
-# -------------------------
-# SCRAPER 2
-# -------------------------
-  scraper_2:
-    needs: controller
-    if: needs.controller.outputs.run_scraper == 'true'
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - run: pip install requests
-
-      - name: Run scraper batch 2
-        run: python main_prod.py 12 24
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: json_batch2
-          path: json/
-
-
-# -------------------------
-# SCRAPER 3
-# -------------------------
-  scraper_3:
-    needs: controller
-    if: needs.controller.outputs.run_scraper == 'true'
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - run: pip install requests
-
-      - name: Run scraper batch 3
-        run: python main_prod.py 24 36
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: json_batch3
-          path: json/
-
-
-# -------------------------
-# SCRAPER 4
-# -------------------------
-  scraper_4:
-    needs: controller
-    if: needs.controller.outputs.run_scraper == 'true'
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - run: pip install requests
-
-      - name: Run scraper batch 4
-        run: python main_prod.py 36 48
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: json_batch4
-          path: json/
-
-
-# -------------------------
-# SCRAPER 5
-# -------------------------
-  scraper_5:
-    needs: controller
-    if: needs.controller.outputs.run_scraper == 'true'
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - run: pip install requests
-
-      - name: Run scraper batch 5
-        run: python main_prod.py 48 50
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: json_batch5
+          name: json_${{ matrix.batch }}
           path: json/
 
 
@@ -169,20 +78,8 @@ jobs:
 # MERGER
 # -------------------------
   merger:
-    needs:
-      - scraper_1
-      - scraper_2
-      - scraper_3
-      - scraper_4
-      - scraper_5
+    needs: scraper
     runs-on: ubuntu-latest
-
-    if: |
-      needs.scraper_1.result == 'success' &&
-      needs.scraper_2.result == 'success' &&
-      needs.scraper_3.result == 'success' &&
-      needs.scraper_4.result == 'success' &&
-      needs.scraper_5.result == 'success'
 
     steps:
       - uses: actions/checkout@v4
@@ -206,15 +103,16 @@ jobs:
       - name: Run merger
         run: python merger.py
 
-      - name: Commit and push
+      - name: Commit files
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-
-          git pull --rebase origin main
-
+          git config user.name github-actions
+          git config user.email actions@github.com
           git add json/
+          git commit -m "Auto update buffet data" || echo "No changes"
 
-          git commit -m "Auto update buffet data" || echo "No changes to commit"
-
-          git push origin main
+      - name: Push safely
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
