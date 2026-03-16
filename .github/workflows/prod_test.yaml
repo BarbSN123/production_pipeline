@@ -28,7 +28,7 @@ jobs:
         run: |
           r=$((RANDOM % 100))
           echo "Random number: $r"
-          if [ $r -lt 100 ]; then
+          if [ $r -lt 15 ]; then
             echo "run=true" >> $GITHUB_OUTPUT
           else
             echo "run=false" >> $GITHUB_OUTPUT
