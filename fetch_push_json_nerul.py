@@ -1,0 +1,161 @@
+#!/usr/bin/env python3
+import os
+import json
+import time
+import subprocess
+import requests
+from datetime import datetime, timedelta
+
+# ========== CONFIG ==========
+URL = "https://www.barbequenation.com/api/v1/menu-buffet-price"
+HEADERS = {"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"}
+
+
+branches_config = {
+  "2":{
+        "name":"Sector 5, Nerul, Mumbai",
+        "slots":{
+            "12:00:00": 2, "12:30:00": 2, "13:00:00": 2,
+            "13:30:00": 2, "14:00:00": 2, "14:30:00": 8,
+            "15:00:00": 8, "15:30:00": 8, "15:45:00": 8,
+            "16:30:00": 8, "17:00:00": 8, "17:30:00": 8,
+            "18:00:00": 14, "18:30:00": 14, "19:00:00": 14,
+            "19:30:00": 14, "20:00:00": 14, "20:30:00": 14,
+            "21:00:00": 20, "21:30:00": 20, "22:00:00": 20,
+            "22:30:00": 20, "22:45:00": 20
+        }
+    }
+}
+
+# Local paths
+OUT_DIR = "json"
+
+# GitHub config
+REPO_URL = "https://github.com/diyanshu-anand/bbq-data.git"   #  repo
+BRANCH_NAME = "main"
+
+# Fetch settings
+REQUEST_TIMEOUT = 12
+SLOT_DELAY = 0.6
+BRANCH_DELAY = 2.0
+RETRIES = 4
+RETRY_BASE_DELAY = 2.0
+DAYS_TO_FETCH = 15
+
+
+
+# ========== NETWORK HELPERS ==========
+def safe_post(payload, retries=RETRIES, base_delay=RETRY_BASE_DELAY):
+    for attempt in range(1, retries + 1):
+        try:
+            r = requests.post(URL, json=payload, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+            if r.status_code == 200:
+                try:
+                    return r.json()
+                except ValueError:
+                    print(f"⚠️ JSON decode error attempt {attempt}: {r.text[:200]}")
+            else:
+                print(f"⚠️ Attempt {attempt}: HTTP {r.status_code} - {r.text[:200]}")
+        except requests.exceptions.RequestException as e:
+            print(f"⚠️ Attempt {attempt}: {e}")
+
+        sleep_time = base_delay * attempt
+        print(f"  → Retrying in {sleep_time:.1f}s...")
+        time.sleep(sleep_time)
+    return None
+
+# ========== FETCH FUNCTION ==========
+def fetch_day_slots(date_obj):
+    """Fetches all slots for a specific date across all branches."""
+    date_str = date_obj.strftime("%Y-%m-%d")
+    day_records = []
+
+    for idx, (branch_id, branch_info) in enumerate(branches_config.items(), start=1):
+        branch_name = branch_info["name"]
+        slot_map = branch_info["slots"]
+
+        print(f"\n🏢 [{idx}/{len(branches_config)}] {branch_name} ({branch_id}) — {date_str}")
+
+        for time_str, slot_id in slot_map.items():
+            print(f"  • {branch_name} @ {time_str}")
+            payload = {
+                "branch_id": str(branch_id),
+                "reservation_date": date_str,
+                "reservation_time": time_str,
+                "slot_id": slot_id
+            }
+
+            data = safe_post(payload)
+            if not data:
+                day_records.append({
+                    "Branch": branch_name, "Branch ID": branch_id,
+                    "Date": date_str, "Slot Time": time_str,
+                    "Error": "Failed to fetch"
+                })
+                continue
+
+            buffets = (
+                data.get("results", {})
+                    .get("buffets", {})
+                    .get("buffet_data", [])
+                    or []
+            )
+
+            if not buffets:
+                day_records.append({
+                    "Branch": branch_name, "Branch ID": branch_id,
+                    "Date": date_str, "Slot Time": time_str,
+                    "Error": "No buffet data"
+                })
+            else:
+                for b in buffets:
+                    day_records.append({
+                        "Branch": branch_name,
+                        "Branch ID": branch_id,
+                        "Date": date_str,
+                        "Slot Time": time_str,
+                        "Period": b.get("period", {}).get("periodName", ""),
+                        "Customer Type": b.get("customerType", ""),
+                        "Food Type": b.get("foodType", ""),
+                        "Plan": b.get("displayName", ""),
+                        "Price": b.get("totalAmount", ""),
+                        "Original Price": b.get("originalPrice", "")
+                    })
+
+            time.sleep(SLOT_DELAY)
+        time.sleep(BRANCH_DELAY)
+
+    return day_records
+
+
+# ========== SAVE FUNCTION ==========
+def save_day_json(records, date_obj):
+    """Save a single day’s data to /json/YYYY-MM-DD.json"""
+    os.makedirs(OUT_DIR, exist_ok=True)
+    date_str = date_obj.strftime("%Y-%m-%d")
+    out_path = os.path.join(OUT_DIR, f"Nerul_Mumbai_{date_str}.json")
+
+    data = {
+        "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "records": records
+    }
+
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+    print(f"✅ Saved {len(records)} records → {out_path}")
+    return out_path
+
+
+# ========== MAIN RUN ==========
+if __name__ == "__main__":
+    print(f"🕒 Starting 15-day buffet data fetch + push...")
+
+    start_date = datetime.now()
+    for d in range(DAYS_TO_FETCH):
+        date_obj = start_date + timedelta(days=d)
+        print(f"\n📅 === Fetching {date_obj.strftime('%Y-%m-%d')} ===")
+        records = fetch_day_slots(date_obj)
+        save_day_json(records, date_obj)
+
+    print("\n🎉 All done — 15-day data saved and pushed successfully!")
