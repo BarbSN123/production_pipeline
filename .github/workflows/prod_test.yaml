@@ -3,7 +3,7 @@ name: BBQ Scraper Production
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'   # trigger every hour
+    - cron: '0 * * * *'   # every hour
 
 permissions:
   contents: write
@@ -15,7 +15,7 @@ concurrency:
 jobs:
 
 # -------------------------
-# CONTROLLER (random trigger)
+# CONTROLLER
 # -------------------------
   controller:
     runs-on: ubuntu-latest
@@ -28,14 +28,15 @@ jobs:
         run: |
           r=$((RANDOM % 100))
           echo "Random number: $r"
-          if [ $r -lt 15 ]; then
+          if [ $r -lt 100 ]; then
             echo "run=true" >> $GITHUB_OUTPUT
           else
             echo "run=false" >> $GITHUB_OUTPUT
           fi
 
+
 # -------------------------
-# JOB 1 (Branches 1–12)
+# SCRAPER 1
 # -------------------------
   scraper_1:
     needs: controller
@@ -43,9 +44,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -59,8 +60,9 @@ jobs:
           name: json_batch1
           path: json/
 
+
 # -------------------------
-# JOB 2 (13–24)
+# SCRAPER 2
 # -------------------------
   scraper_2:
     needs: controller
@@ -68,9 +70,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -84,8 +86,9 @@ jobs:
           name: json_batch2
           path: json/
 
+
 # -------------------------
-# JOB 3 (25–36)
+# SCRAPER 3
 # -------------------------
   scraper_3:
     needs: controller
@@ -93,9 +96,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -109,8 +112,9 @@ jobs:
           name: json_batch3
           path: json/
 
+
 # -------------------------
-# JOB 4 (37–48)
+# SCRAPER 4
 # -------------------------
   scraper_4:
     needs: controller
@@ -118,9 +122,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -134,8 +138,9 @@ jobs:
           name: json_batch4
           path: json/
 
+
 # -------------------------
-# JOB 5 (49–50)
+# SCRAPER 5
 # -------------------------
   scraper_5:
     needs: controller
@@ -143,9 +148,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -159,6 +164,7 @@ jobs:
           name: json_batch5
           path: json/
 
+
 # -------------------------
 # MERGER
 # -------------------------
@@ -170,14 +176,20 @@ jobs:
       - scraper_4
       - scraper_5
     runs-on: ubuntu-latest
-    if: needs.scraper_1.result == 'success'
+
+    if: |
+      needs.scraper_1.result == 'success' &&
+      needs.scraper_2.result == 'success' &&
+      needs.scraper_3.result == 'success' &&
+      needs.scraper_4.result == 'success' &&
+      needs.scraper_5.result == 'success'
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -194,38 +206,15 @@ jobs:
       - name: Run merger
         run: python merger.py
 
-      # - name: Commit merged JSON files
-      #   run: |
-      #     git config --global user.name "github-actions"
-      #     git config --global user.email "actions@github.com"
-
-      #     git add json/
-
-      #     git diff --staged --quiet || git commit -m "Auto update buffet data"
-
-      #     git pull origin main --rebase
-
-      #     git push origin main
-
-      - name: Commit merged JSON files
+      - name: Commit and push
         run: |
-              git config --global user.name "github-actions"
-              git config --global user.email "actions@github.com"
-          
-              git add json/
-          
-              # commit only if changes exist
-              git diff --staged --quiet || git commit -m "Auto update buffet data"
-          
-              # fetch latest remote
-              git fetch origin main
-          
-              # reset local branch to latest remote
-              git reset --soft origin/main
-          
-              # reapply staged changes and commit again if needed
-              git add json/
-              git diff --staged --quiet || git commit -m "Auto update buffet data"
-          
-              # push safely
-              git push origin main
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git pull --rebase origin main
+
+          git add json/
+
+          git commit -m "Auto update buffet data" || echo "No changes to commit"
+
+          git push origin main
