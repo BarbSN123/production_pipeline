@@ -3,45 +3,22 @@ name: BBQ Scraper Production
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 6 */3 * *'   # Runs every 3 days at 6 AM
 
 permissions:
   contents: write
 
 concurrency:
   group: bbq-production
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 
 jobs:
 
 # -------------------------
-# CONTROLLER
-# -------------------------
-  controller:
-    runs-on: ubuntu-latest
-    outputs:
-      run_scraper: ${{ steps.random.outputs.run }}
-
-    steps:
-      - name: Decide whether to run scraper
-        id: random
-        run: |
-          r=$((RANDOM % 100))
-          echo "Random number: $r"
-          if [ $r -lt 15 ]; then
-            echo "run=true" >> $GITHUB_OUTPUT
-          else
-            echo "run=false" >> $GITHUB_OUTPUT
-          fi
-
-
-# -------------------------
 # SCRAPERS (parallel)
 # -------------------------
   scraper:
-    needs: controller
-    if: needs.controller.outputs.run_scraper == 'true'
     runs-on: ubuntu-latest
 
     strategy:
@@ -55,6 +32,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # IMPORTANT for proper git history
 
       - uses: actions/setup-python@v5
         with:
@@ -103,16 +82,14 @@ jobs:
       - name: Run merger
         run: python merger.py
 
-      - name: Commit files
+      - name: Commit & Pull latest
         run: |
-          git config user.name github-actions
-          git config user.email actions@github.com
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add json/
           git commit -m "Auto update buffet data" || echo "No changes"
+          git pull origin main --rebase
 
       - name: Push safely
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+        run: |
+          git push origin main
