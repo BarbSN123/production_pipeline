@@ -1,9 +1,13 @@
+#  Code with email alerts 
 # Production pipeline controller
 
 import subprocess
 import time
 import random
 import sys
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 
 files = [
     "fetch_push_branch_banajara_hills.py",
@@ -75,3 +79,49 @@ for f in selected_files:
     time.sleep(delay)
 
 print("\n✅ Job completed")
+
+# -------------------------
+# EMAIL FUNCTION
+# -------------------------
+def send_email():
+    sender_email = "mona100975@gmail.com"
+    sender_password = "ghdt vdgv bern hgur"
+    receiver_email = "bbqnation1010@gmail.com"
+
+    subject = "Price Change Alert - BBQ Scraper"
+
+    body = """
+Price changes have been detected.
+
+Kindly refer to the updated collection from the link below:
+https://bbqscrapper.streamlit.app/
+
+Kindly wait for 2 minutes for the entire system to be updated and do not click the link as soon as you get as you might not get any updates.
+As, Processing the data takes 2 minutes to happen.
+
+Regards,
+SERVER MO-203
+"""
+
+    msg = MIMEMultipart()
+    msg["From"] = sender_email
+    msg["To"] = receiver_email
+    msg["Subject"] = subject
+
+    msg.attach(MIMEText(body, "plain"))
+
+    try:
+        server = smtplib.SMTP("smtp.gmail.com", 587)
+        server.starttls()
+        server.login(sender_email, sender_password)
+        server.send_message(msg)
+        server.quit()
+        print("📧 Email sent successfully")
+
+    except Exception as e:
+        print(f"❌ Email failed: {e}")
+
+# -------------------------
+# TRIGGER EMAIL AFTER JOB
+# -------------------------
+send_email()
