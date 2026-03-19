@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17 07:09:10",
+  "generated_at": "2026-03-19 08:27:30",
   "records": [
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -45,18 +45,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "12:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -117,18 +105,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "12:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -189,18 +165,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "13:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -261,18 +225,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "13:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -333,18 +285,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "14:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -405,18 +345,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "14:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -477,18 +405,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "15:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -549,18 +465,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "15:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -621,18 +525,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "15:45:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -693,18 +585,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "16:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -765,18 +645,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "17:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -827,18 +695,6 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "17:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
       "Original Price": 899
     },
     {
@@ -909,18 +765,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "18:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 749,
       "Original Price": 899
@@ -946,8 +790,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 949,
-      "Original Price": 949
+      "Price": 999,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -958,8 +802,8 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 849,
-      "Original Price": 849
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -969,21 +813,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3299)",
-      "Price": 825,
-      "Original Price": 949
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -994,8 +826,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 799,
-      "Original Price": 949
+      "Price": 849,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1018,8 +850,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 949,
-      "Original Price": 949
+      "Price": 999,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1030,8 +862,8 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 849,
-      "Original Price": 849
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1041,21 +873,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3299)",
-      "Price": 825,
-      "Original Price": 949
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1066,8 +886,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 799,
-      "Original Price": 949
+      "Price": 849,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1090,8 +910,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 949,
-      "Original Price": 949
+      "Price": 999,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1102,8 +922,8 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 849,
-      "Original Price": 849
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1113,21 +933,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3299)",
-      "Price": 825,
-      "Original Price": 949
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1138,8 +946,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 799,
-      "Original Price": 949
+      "Price": 849,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1162,8 +970,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 949,
-      "Original Price": 949
+      "Price": 999,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1174,8 +982,8 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 849,
-      "Original Price": 849
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1185,21 +993,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3299)",
-      "Price": 825,
-      "Original Price": 949
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1210,8 +1006,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 799,
-      "Original Price": 949
+      "Price": 849,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1234,8 +1030,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 949,
-      "Original Price": 949
+      "Price": 999,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1246,8 +1042,8 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 849,
-      "Original Price": 849
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1257,21 +1053,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3299)",
-      "Price": 825,
-      "Original Price": 949
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1282,8 +1066,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 799,
-      "Original Price": 949
+      "Price": 849,
+      "Original Price": 999
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1305,57 +1089,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 949,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 849,
-      "Original Price": 849
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3299)",
-      "Price": 825,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 799,
-      "Original Price": 949
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1377,57 +1113,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 949,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 849,
-      "Original Price": 849
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3299)",
-      "Price": 825,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 799,
-      "Original Price": 949
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1449,57 +1137,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 949,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 849,
-      "Original Price": 849
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3299)",
-      "Price": 825,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 799,
-      "Original Price": 949
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1521,57 +1161,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 949,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 849,
-      "Original Price": 849
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3299)",
-      "Price": 825,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 799,
-      "Original Price": 949
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -1593,57 +1185,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 949,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:45:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 849,
-      "Original Price": 849
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:45:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:45:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3299)",
-      "Price": 825,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-03-29",
-      "Slot Time": "22:45:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 799,
-      "Original Price": 949
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",

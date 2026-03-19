@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17 06:33:48",
+  "generated_at": "2026-03-19 07:51:39",
   "records": [
     {
       "Branch": "Electronic City- Ph I",
@@ -478,8 +478,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Price": 699,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -501,9 +501,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -514,8 +514,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 599,
-      "Original Price": 649
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-23",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -538,8 +550,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Price": 699,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -561,9 +573,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -574,8 +586,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 599,
-      "Original Price": 649
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-23",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -598,8 +622,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Price": 699,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -621,9 +645,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -634,8 +658,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 599,
-      "Original Price": 649
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-23",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -658,8 +694,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Price": 699,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -681,9 +717,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -694,8 +730,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 599,
-      "Original Price": 649
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-23",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -718,8 +766,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Price": 699,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -741,9 +789,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -754,8 +802,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 599,
-      "Original Price": 649
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-23",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -778,8 +838,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-23",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -802,8 +874,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-23",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -826,8 +910,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-23",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -850,8 +946,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-23",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",

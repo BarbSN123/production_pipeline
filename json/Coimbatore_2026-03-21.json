@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17 06:01:58",
+  "generated_at": "2026-03-19 07:20:18",
   "records": [
     {
       "Branch": "Town Hall, Coimbatore",
@@ -513,18 +513,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 849,
       "Original Price": 999
@@ -535,6 +523,18 @@
       "Date": "2026-03-21",
       "Slot Time": "18:30:00",
       "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@3499)",
+      "Price": 875,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-03-21",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -585,18 +585,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 849,
       "Original Price": 999
@@ -607,6 +595,18 @@
       "Date": "2026-03-21",
       "Slot Time": "19:00:00",
       "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@3499)",
+      "Price": 875,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-03-21",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -657,18 +657,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 849,
       "Original Price": 999
@@ -679,6 +667,18 @@
       "Date": "2026-03-21",
       "Slot Time": "19:30:00",
       "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@3499)",
+      "Price": 875,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-03-21",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -729,8 +729,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 849,
       "Original Price": 999
     },
     {
@@ -741,8 +741,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
+      "Plan": "March Mania(4@3499)",
+      "Price": 875,
       "Original Price": 999
     },
     {
@@ -801,8 +801,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 849,
       "Original Price": 999
     },
     {
@@ -813,8 +813,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
+      "Plan": "March Mania(4@3499)",
+      "Price": 875,
       "Original Price": 999
     },
     {
@@ -837,19 +837,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
     },
@@ -861,32 +849,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "March Mania(4@3499)",
       "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
       "Original Price": 999
     },
     {
@@ -909,19 +873,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
     },
@@ -933,32 +885,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "March Mania(4@3499)",
       "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
       "Original Price": 999
     },
     {
@@ -981,19 +909,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
     },
@@ -1005,32 +921,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "March Mania(4@3499)",
       "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
       "Original Price": 999
     },
     {
@@ -1053,19 +945,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
     },
@@ -1077,32 +957,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "March Mania(4@3499)",
       "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Town Hall, Coimbatore",
-      "Branch ID": "63",
-      "Date": "2026-03-21",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
       "Original Price": 999
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17 06:21:01",
+  "generated_at": "2026-03-19 07:39:07",
   "records": [
     {
       "Branch": "DSL Virtue Mall, Uppal",
@@ -33,18 +33,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "12:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -93,18 +81,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "12:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -153,18 +129,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "13:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -213,18 +177,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "13:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -273,18 +225,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "14:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -333,18 +273,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "14:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -393,18 +321,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "15:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -453,18 +369,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "15:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -513,18 +417,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "16:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -573,18 +465,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "16:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -633,18 +513,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "17:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -693,18 +561,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "17:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -753,18 +609,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "18:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -789,6 +633,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Iftari Special (6@599)",
+      "Price": 599,
+      "Original Price": 699
+    },
+    {
+      "Branch": "DSL Virtue Mall, Uppal",
+      "Branch ID": "557",
+      "Date": "2026-03-19",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -825,18 +681,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2599)",
-      "Price": 650,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 649,
       "Original Price": 699
@@ -849,8 +693,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Iftari Special (6@599)",
-      "Price": 599,
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
       "Original Price": 699
     },
     {
@@ -873,6 +717,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Iftari Special (6@599)",
+      "Price": 599,
+      "Original Price": 699
+    },
+    {
+      "Branch": "DSL Virtue Mall, Uppal",
+      "Branch ID": "557",
+      "Date": "2026-03-19",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -909,18 +765,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2599)",
-      "Price": 650,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 649,
       "Original Price": 699
@@ -933,8 +777,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Iftari Special (6@599)",
-      "Price": 599,
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
       "Original Price": 699
     },
     {
@@ -957,6 +801,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Iftari Special (6@599)",
+      "Price": 599,
+      "Original Price": 699
+    },
+    {
+      "Branch": "DSL Virtue Mall, Uppal",
+      "Branch ID": "557",
+      "Date": "2026-03-19",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -993,18 +849,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2599)",
-      "Price": 650,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 649,
       "Original Price": 699
@@ -1017,8 +861,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Iftari Special (6@599)",
-      "Price": 599,
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
       "Original Price": 699
     },
     {
@@ -1041,6 +885,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Iftari Special (6@599)",
+      "Price": 599,
+      "Original Price": 699
+    },
+    {
+      "Branch": "DSL Virtue Mall, Uppal",
+      "Branch ID": "557",
+      "Date": "2026-03-19",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -1077,18 +933,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2599)",
-      "Price": 650,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 649,
       "Original Price": 699
@@ -1101,8 +945,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Iftari Special (6@599)",
-      "Price": 599,
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
       "Original Price": 699
     },
     {
@@ -1125,6 +969,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Iftari Special (6@599)",
+      "Price": 599,
+      "Original Price": 699
+    },
+    {
+      "Branch": "DSL Virtue Mall, Uppal",
+      "Branch ID": "557",
+      "Date": "2026-03-19",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -1161,18 +1017,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2599)",
-      "Price": 650,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 649,
       "Original Price": 699
@@ -1185,8 +1029,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Iftari Special (6@599)",
-      "Price": 599,
+      "Plan": "March Mania(4@2599)",
+      "Price": 650,
       "Original Price": 699
     },
     {
@@ -1209,8 +1053,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 699,
+      "Plan": "Iftari Special (6@599)",
+      "Price": 599,
       "Original Price": 699
     },
     {
@@ -1220,21 +1064,9 @@
       "Slot Time": "21:00:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
       "Original Price": 699
     },
     {
@@ -1247,30 +1079,6 @@
       "Food Type": "NON-VEG",
       "Plan": "March Mania(4@2599)",
       "Price": 650,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Iftari Special (6@599)",
-      "Price": 599,
       "Original Price": 699
     },
     {
@@ -1293,8 +1101,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 699,
+      "Plan": "Iftari Special (6@599)",
+      "Price": 599,
       "Original Price": 699
     },
     {
@@ -1304,21 +1112,9 @@
       "Slot Time": "21:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
       "Original Price": 699
     },
     {
@@ -1331,30 +1127,6 @@
       "Food Type": "NON-VEG",
       "Plan": "March Mania(4@2599)",
       "Price": 650,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Iftari Special (6@599)",
-      "Price": 599,
       "Original Price": 699
     },
     {
@@ -1377,8 +1149,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 699,
+      "Plan": "Iftari Special (6@599)",
+      "Price": 599,
       "Original Price": 699
     },
     {
@@ -1388,21 +1160,9 @@
       "Slot Time": "22:00:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
       "Original Price": 699
     },
     {
@@ -1415,30 +1175,6 @@
       "Food Type": "NON-VEG",
       "Plan": "March Mania(4@2599)",
       "Price": 650,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Iftari Special (6@599)",
-      "Price": 599,
       "Original Price": 699
     },
     {
@@ -1461,8 +1197,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 699,
+      "Plan": "Iftari Special (6@599)",
+      "Price": 599,
       "Original Price": 699
     },
     {
@@ -1472,21 +1208,9 @@
       "Slot Time": "22:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
       "Original Price": 699
     },
     {
@@ -1499,30 +1223,6 @@
       "Food Type": "NON-VEG",
       "Plan": "March Mania(4@2599)",
       "Price": 650,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-19",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Iftari Special (6@599)",
-      "Price": 599,
       "Original Price": 699
     },
     {

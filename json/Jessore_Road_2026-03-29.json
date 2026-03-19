@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17 07:40:07",
+  "generated_at": "2026-03-19 08:57:07",
   "records": [
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -45,18 +45,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "12:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -117,18 +105,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "12:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -189,18 +165,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "13:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -261,18 +225,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "13:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -333,18 +285,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "14:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -405,18 +345,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "14:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -477,18 +405,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "15:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -549,18 +465,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "15:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -621,18 +525,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "16:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -693,18 +585,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "16:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -765,18 +645,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "17:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -837,18 +705,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "17:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -909,18 +765,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "18:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -981,18 +825,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -1053,18 +885,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -1125,18 +945,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -1197,18 +1005,6 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -1259,18 +1055,6 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 6 @999",
       "Price": 999,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -1306,8 +1090,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 949,
+      "Original Price": 949
     },
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -1330,8 +1114,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 949,
+      "Original Price": 949
     },
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -1354,8 +1138,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 949,
+      "Original Price": 949
     },
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -1378,8 +1162,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 949,
+      "Original Price": 949
     },
     {
       "Branch": "Diamond Plaza, Jessore Road",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17 07:45:41",
+  "generated_at": "2026-03-19 09:02:20",
   "records": [
     {
       "Branch": "JP Nagar",
@@ -45,18 +45,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-22",
-      "Slot Time": "12:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -67,6 +55,18 @@
       "Date": "2026-03-22",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-22",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -117,18 +117,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-22",
-      "Slot Time": "12:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 949,
       "Original Price": 1099
@@ -139,6 +127,18 @@
       "Date": "2026-03-22",
       "Slot Time": "12:30:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-22",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -189,8 +189,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -201,8 +201,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -261,8 +261,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -273,8 +273,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -333,8 +333,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -345,8 +345,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -405,8 +405,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -417,8 +417,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -477,8 +477,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -489,8 +489,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -549,8 +549,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -561,8 +561,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -621,8 +621,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -633,8 +633,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -693,8 +693,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -705,8 +705,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -765,8 +765,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -777,8 +777,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -837,8 +837,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -849,8 +849,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -909,8 +909,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -921,8 +921,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -981,8 +981,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -993,8 +993,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -1053,8 +1053,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -1065,8 +1065,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -1125,8 +1125,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -1137,8 +1137,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -1197,8 +1197,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -1209,8 +1209,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -1269,8 +1269,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3799)",
-      "Price": 950,
+      "Plan": "Student (10-21 yrs)",
+      "Price": 949,
       "Original Price": 1099
     },
     {
@@ -1281,8 +1281,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 949,
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
       "Original Price": 1099
     },
     {
@@ -1306,8 +1306,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 949,
+      "Original Price": 949
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-22",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
+      "Original Price": 1099
     },
     {
       "Branch": "JP Nagar",
@@ -1330,8 +1342,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 949,
+      "Original Price": 949
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-22",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
+      "Original Price": 1099
     },
     {
       "Branch": "JP Nagar",
@@ -1354,8 +1378,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 949,
+      "Original Price": 949
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-22",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
+      "Original Price": 1099
     },
     {
       "Branch": "JP Nagar",
@@ -1378,8 +1414,20 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 949,
+      "Original Price": 949
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-22",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "March Mania(4@3799)",
+      "Price": 950,
+      "Original Price": 1099
     },
     {
       "Branch": "JP Nagar",

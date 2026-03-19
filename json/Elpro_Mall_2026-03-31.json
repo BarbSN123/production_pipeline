@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17 06:49:25",
+  "generated_at": "2026-03-19 08:07:16",
   "records": [
     {
       "Branch": "Elpro Mall, MG Road",
@@ -33,18 +33,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "12:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -93,18 +81,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "12:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -153,18 +129,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "13:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -213,18 +177,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "13:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -273,18 +225,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "14:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -333,18 +273,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "14:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -393,18 +321,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "15:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -453,18 +369,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "15:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -513,18 +417,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "16:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -573,18 +465,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "16:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -633,18 +513,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "17:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -684,18 +552,6 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "17:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -753,18 +609,6 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "18:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -790,8 +634,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 849,
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -815,19 +659,7 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
-      "Original Price": 799
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -839,7 +671,7 @@
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 799
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -862,8 +694,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 849,
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -887,19 +719,7 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
-      "Original Price": 799
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -911,7 +731,7 @@
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 799
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -934,8 +754,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 849,
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -959,19 +779,7 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
-      "Original Price": 799
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -983,7 +791,7 @@
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 799
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -1006,8 +814,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 849,
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -1031,19 +839,7 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
-      "Original Price": 799
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -1055,7 +851,7 @@
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 799
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -1078,8 +874,8 @@
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
+      "Price": 849,
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -1103,19 +899,7 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
-      "Original Price": 799
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -1127,7 +911,7 @@
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 799
+      "Original Price": 849
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -1149,57 +933,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 749,
       "Original Price": 749
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -1221,57 +957,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 749,
       "Original Price": 749
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -1293,57 +981,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 749,
       "Original Price": 749
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -1365,57 +1005,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 749,
       "Original Price": 749
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Elpro Mall, MG Road",
-      "Branch ID": "190",
-      "Date": "2026-03-31",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
     },
     {
       "Branch": "Elpro Mall, MG Road",
