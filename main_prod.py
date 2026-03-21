@@ -59,6 +59,7 @@ files = [
     "fetch_push_json_Velachery.py",
     "fetch_push_json_Wakad.py",
     "fetch_push_json_WhiteField.py",
+    "fetch_push_json_Waltair.py",
     "fetch_push_json_Yelahanka.py"
 ]
 
