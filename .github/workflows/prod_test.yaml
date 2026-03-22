@@ -71,12 +71,12 @@ jobs:
         with:
           python-version: "3.11"
 
-      # 🧹 DELETE OLD DATA
-      - name: Clean old JSON files
+      # 🧹 CLEAN LOCAL FOLDER
+      - name: Clean local JSON
         run: |
           rm -rf json
           mkdir json
-          echo "✅ Old json cleared"
+          echo "✅ Local json cleaned"
 
       # 📥 DOWNLOAD ARTIFACTS
       - name: Download artifacts
@@ -89,9 +89,9 @@ jobs:
         run: |
           find temp_data -name "*.json" -exec mv {} json/ \;
           rm -rf temp_data
-          echo "✅ Files moved & temp cleaned"
+          echo "✅ Files moved"
 
-      # 🔍 DEBUG (optional but useful)
+      # 🔍 DEBUG
       - name: Show files
         run: |
           echo "Final JSON files:"
@@ -101,14 +101,20 @@ jobs:
       - name: Run merger
         run: python merger.py
 
-      # 🚀 PUSH TO REPO (FINAL CLEAN STEP)
-      - name: Commit & Push
+      # 🚀 CLEAN + PUSH (CRITICAL FIX)
+      - name: Commit & Push (Clean overwrite)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add -A
+          # 🔥 REMOVE old tracked json files from repo
+          git rm -r --ignore-unmatch json/
 
+          # Add fresh files
+          git add json/
+
+          # Commit if changes exist
           git diff --cached --quiet || git commit -m "Auto update buffet data"
 
+          # Push
           git push origin main
