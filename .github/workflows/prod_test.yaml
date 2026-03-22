@@ -31,15 +31,18 @@ jobs:
           - "48 50"
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
       - name: Run scraper
         run: |
@@ -62,15 +65,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      #  CLEANUP
+      # ✅ CLEAN OLD FILES
       - name: Clean old JSON files
         run: |
           echo "🧹 Cleaning old JSON files..."
@@ -78,13 +83,13 @@ jobs:
           mkdir json
           echo "✅ Cleanup done"
 
-      #  DOWNLOAD ARTIFACTS
+      # ✅ DOWNLOAD ARTIFACTS
       - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
           path: json_artifacts
 
-      #  MOVE FILES SAFELY
+      # ✅ MOVE FILES
       - name: Move JSON files
         run: |
           if [ -d "json_artifacts" ]; then
@@ -94,31 +99,31 @@ jobs:
             exit 1
           fi
 
-      #  DEBUG VIEW
+      # ✅ DEBUG
       - name: Show generated files
         run: |
           echo "📂 Files after merge:"
           ls -l json/
 
-      #  RUN MERGER
+      # ✅ RUN MERGER SCRIPT
       - name: Run merger
         run: |
           python merger.py || { echo "❌ Merger failed"; exit 1; }
 
-      #  FINAL GIT STEP (FIXED ORDER)
+      # ✅ FINAL GIT (BULLETPROOF)
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          # Stage changes FIRST
-          git add json/
+          # Stage EVERYTHING (important for deletions)
+          git add -A
 
           # Commit only if changes exist
           git diff --cached --quiet || git commit -m "Auto update buffet data"
 
-          # Pull AFTER commit
-          git pull origin main --rebase
+          # Pull safely (ignore minor rebase issues)
+          git pull --rebase origin main || true
 
-          # Push
+          # Push changes
           git push origin main
