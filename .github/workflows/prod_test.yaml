@@ -33,8 +33,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -67,45 +65,43 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # ✅ CLEANUP
+      # 🧹 DELETE OLD DATA
       - name: Clean old JSON files
         run: |
-          echo "🧹 Cleaning old JSON files..."
           rm -rf json
           mkdir json
-          echo "✅ Cleanup done"
+          echo "✅ Old json cleared"
 
-      # ✅ DOWNLOAD ARTIFACTS
+      # 📥 DOWNLOAD ARTIFACTS
       - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
-          path: json_artifacts
+          path: temp_data
 
-      # ✅ MOVE FILES
+      # 📦 MOVE FILES INTO json/
       - name: Move JSON files
         run: |
-          find json_artifacts -name "*.json" -exec cp {} json/ \;
+          find temp_data -name "*.json" -exec mv {} json/ \;
+          rm -rf temp_data
+          echo "✅ Files moved & temp cleaned"
 
-      # ✅ DEBUG
-      - name: Show generated files
+      # 🔍 DEBUG (optional but useful)
+      - name: Show files
         run: |
-          echo "📂 Files after merge:"
+          echo "Final JSON files:"
           ls -l json/
 
-      # ✅ RUN MERGER
+      # 🧠 RUN MERGER
       - name: Run merger
-        run: |
-          python merger.py || { echo "❌ Merger failed"; exit 1; }
+        run: python merger.py
 
-      # ✅ FINAL GIT (NO PULL)
+      # 🚀 PUSH TO REPO (FINAL CLEAN STEP)
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
