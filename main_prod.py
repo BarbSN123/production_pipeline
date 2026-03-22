@@ -15,7 +15,7 @@ files = [
     # "fetch_push_branch_banajara_hills.py",
     # "fetch_push_branch_kormangala.py",
     # "fetch_push_branch_Rukamani_Colony_AS_Rao_Nagar.py",
-    # "fetch_push_json_Abids.py",
+    "fetch_push_json_Abids.py"
     # "fetch_push_json_Acropolis_Mall.py",
     # "fetch_push_json_Alcazar_Mall_Jubilee_Hills.py",
     # "fetch_push_json_Amanora.py",
