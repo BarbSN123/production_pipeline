@@ -100,11 +100,11 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-
-          git pull origin main --rebase
-
+      
           git add json/
-
+      
           git diff --cached --quiet || git commit -m "Auto update buffet data"
-
+      
+          git pull origin main --rebase
+      
           git push origin main
