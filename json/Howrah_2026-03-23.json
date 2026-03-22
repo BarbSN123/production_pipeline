@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19 08:33:52",
+  "generated_at": "2026-03-22 08:42:53",
   "records": [
     {
       "Branch": "Platina Mall, Howrah",
@@ -8,18 +8,6 @@
       "Slot Time": "12:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "12:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -35,6 +23,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -68,18 +68,6 @@
       "Slot Time": "12:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "12:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -95,6 +83,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -128,18 +128,6 @@
       "Slot Time": "13:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "13:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -155,6 +143,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -188,18 +188,6 @@
       "Slot Time": "13:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "13:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -215,6 +203,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -248,18 +248,6 @@
       "Slot Time": "14:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "14:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -275,6 +263,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -308,18 +308,6 @@
       "Slot Time": "14:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "14:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -335,6 +323,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -368,18 +368,6 @@
       "Slot Time": "15:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "15:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -395,6 +383,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -428,18 +428,6 @@
       "Slot Time": "15:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "15:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -455,6 +443,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -488,18 +488,6 @@
       "Slot Time": "16:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "16:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -515,6 +503,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -548,18 +548,6 @@
       "Slot Time": "16:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "16:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -575,6 +563,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -608,18 +608,6 @@
       "Slot Time": "17:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "17:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -635,6 +623,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -668,18 +668,6 @@
       "Slot Time": "17:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "17:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -695,6 +683,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -728,18 +728,6 @@
       "Slot Time": "18:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Platina Mall, Howrah",
-      "Branch ID": "501",
-      "Date": "2026-03-23",
-      "Slot Time": "18:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 449,
@@ -755,6 +743,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Fab 5 @2266",
       "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Platina Mall, Howrah",
+      "Branch ID": "501",
+      "Date": "2026-03-23",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
       "Original Price": 499
     },
     {
@@ -789,8 +789,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 529,
+      "Plan": "Fab 5 @2345",
+      "Price": 469,
       "Original Price": 529
     },
     {
@@ -813,8 +813,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2345",
-      "Price": 469,
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 529,
       "Original Price": 529
     },
     {
@@ -849,8 +849,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 529,
+      "Plan": "Fab 5 @2345",
+      "Price": 469,
       "Original Price": 529
     },
     {
@@ -873,8 +873,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2345",
-      "Price": 469,
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 529,
       "Original Price": 529
     },
     {
@@ -909,8 +909,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 529,
+      "Plan": "Fab 5 @2345",
+      "Price": 469,
       "Original Price": 529
     },
     {
@@ -933,8 +933,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2345",
-      "Price": 469,
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 529,
       "Original Price": 529
     },
     {
@@ -969,8 +969,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 529,
+      "Plan": "Fab 5 @2345",
+      "Price": 469,
       "Original Price": 529
     },
     {
@@ -993,8 +993,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2345",
-      "Price": 469,
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 529,
       "Original Price": 529
     },
     {
@@ -1029,8 +1029,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 529,
+      "Plan": "Fab 5 @2345",
+      "Price": 469,
       "Original Price": 529
     },
     {
@@ -1053,8 +1053,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2345",
-      "Price": 469,
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 529,
       "Original Price": 529
     },
     {
@@ -1089,8 +1089,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 529,
+      "Plan": "Fab 5 @2345",
+      "Price": 469,
       "Original Price": 529
     },
     {
@@ -1113,8 +1113,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2345",
-      "Price": 469,
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 529,
       "Original Price": 529
     },
     {
@@ -1149,8 +1149,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 529,
+      "Plan": "Fab 5 @2345",
+      "Price": 469,
       "Original Price": 529
     },
     {
@@ -1173,8 +1173,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2345",
-      "Price": 469,
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 529,
       "Original Price": 529
     },
     {
@@ -1209,8 +1209,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 529,
+      "Plan": "Fab 5 @2345",
+      "Price": 469,
       "Original Price": 529
     },
     {
@@ -1233,8 +1233,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2345",
-      "Price": 469,
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 529,
       "Original Price": 529
     },
     {
@@ -1269,8 +1269,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 529,
+      "Plan": "Fab 5 @2345",
+      "Price": 469,
       "Original Price": 529
     },
     {
@@ -1293,8 +1293,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2345",
-      "Price": 469,
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 529,
       "Original Price": 529
     },
     {

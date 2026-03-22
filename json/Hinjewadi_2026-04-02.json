@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19 08:30:22",
+  "generated_at": "2026-03-22 08:39:23",
   "records": [
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -8,10 +8,10 @@
       "Slot Time": "12:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -20,10 +20,10 @@
       "Slot Time": "12:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -56,10 +56,10 @@
       "Slot Time": "12:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -68,10 +68,10 @@
       "Slot Time": "12:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -104,10 +104,10 @@
       "Slot Time": "13:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -116,10 +116,10 @@
       "Slot Time": "13:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -152,10 +152,10 @@
       "Slot Time": "13:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -164,10 +164,10 @@
       "Slot Time": "13:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -200,10 +200,10 @@
       "Slot Time": "14:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -212,10 +212,10 @@
       "Slot Time": "14:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -248,10 +248,10 @@
       "Slot Time": "14:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -260,10 +260,10 @@
       "Slot Time": "14:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -296,10 +296,10 @@
       "Slot Time": "15:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -308,10 +308,10 @@
       "Slot Time": "15:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -344,10 +344,10 @@
       "Slot Time": "15:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -356,10 +356,10 @@
       "Slot Time": "15:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -392,10 +392,10 @@
       "Slot Time": "15:45:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -404,10 +404,10 @@
       "Slot Time": "15:45:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -440,10 +440,10 @@
       "Slot Time": "16:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -452,10 +452,10 @@
       "Slot Time": "16:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -488,10 +488,10 @@
       "Slot Time": "17:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -500,10 +500,10 @@
       "Slot Time": "17:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -536,10 +536,10 @@
       "Slot Time": "17:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -548,10 +548,10 @@
       "Slot Time": "17:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -584,10 +584,10 @@
       "Slot Time": "18:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -596,10 +596,10 @@
       "Slot Time": "18:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Grand HighStreet Mall, Hinjewadi",
@@ -633,8 +633,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -657,8 +657,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
+      "Plan": "NON-VEG",
+      "Price": 799,
       "Original Price": 799
     },
     {
@@ -693,8 +693,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -717,8 +717,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
+      "Plan": "NON-VEG",
+      "Price": 799,
       "Original Price": 799
     },
     {
@@ -753,8 +753,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -777,8 +777,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
+      "Plan": "NON-VEG",
+      "Price": 799,
       "Original Price": 799
     },
     {
@@ -813,8 +813,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -837,8 +837,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
+      "Plan": "NON-VEG",
+      "Price": 799,
       "Original Price": 799
     },
     {
@@ -873,8 +873,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -897,8 +897,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
+      "Plan": "NON-VEG",
+      "Price": 799,
       "Original Price": 799
     },
     {

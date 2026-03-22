@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19 07:31:42",
+  "generated_at": "2026-03-22 07:25:16",
   "records": [
     {
       "Branch": "DLF Porur",
@@ -477,8 +477,20 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
+      "Plan": "March Mania(4@2899)",
+      "Price": 725,
+      "Original Price": 799
+    },
+    {
+      "Branch": "DLF Porur",
+      "Branch ID": "127",
+      "Date": "2026-03-23",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -501,8 +513,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
+      "Plan": "NON-VEG",
+      "Price": 799,
       "Original Price": 799
     },
     {
@@ -515,18 +527,6 @@
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 799
-    },
-    {
-      "Branch": "DLF Porur",
-      "Branch ID": "127",
-      "Date": "2026-03-23",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
       "Original Price": 799
     },
     {
@@ -549,8 +549,20 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
+      "Plan": "March Mania(4@2899)",
+      "Price": 725,
+      "Original Price": 799
+    },
+    {
+      "Branch": "DLF Porur",
+      "Branch ID": "127",
+      "Date": "2026-03-23",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -573,8 +585,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
+      "Plan": "NON-VEG",
+      "Price": 799,
       "Original Price": 799
     },
     {
@@ -587,18 +599,6 @@
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 799
-    },
-    {
-      "Branch": "DLF Porur",
-      "Branch ID": "127",
-      "Date": "2026-03-23",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
       "Original Price": 799
     },
     {
@@ -621,8 +621,20 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
+      "Plan": "March Mania(4@2899)",
+      "Price": 725,
+      "Original Price": 799
+    },
+    {
+      "Branch": "DLF Porur",
+      "Branch ID": "127",
+      "Date": "2026-03-23",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -645,8 +657,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
+      "Plan": "NON-VEG",
+      "Price": 799,
       "Original Price": 799
     },
     {
@@ -659,18 +671,6 @@
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 799
-    },
-    {
-      "Branch": "DLF Porur",
-      "Branch ID": "127",
-      "Date": "2026-03-23",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
       "Original Price": 799
     },
     {
@@ -693,8 +693,20 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
+      "Plan": "March Mania(4@2899)",
+      "Price": 725,
+      "Original Price": 799
+    },
+    {
+      "Branch": "DLF Porur",
+      "Branch ID": "127",
+      "Date": "2026-03-23",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -717,8 +729,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
+      "Plan": "NON-VEG",
+      "Price": 799,
       "Original Price": 799
     },
     {
@@ -731,18 +743,6 @@
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 799
-    },
-    {
-      "Branch": "DLF Porur",
-      "Branch ID": "127",
-      "Date": "2026-03-23",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
       "Original Price": 799
     },
     {
@@ -765,8 +765,20 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
+      "Plan": "March Mania(4@2899)",
+      "Price": 725,
+      "Original Price": 799
+    },
+    {
+      "Branch": "DLF Porur",
+      "Branch ID": "127",
+      "Date": "2026-03-23",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -789,8 +801,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
+      "Plan": "NON-VEG",
+      "Price": 799,
       "Original Price": 799
     },
     {
@@ -803,18 +815,6 @@
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 799
-    },
-    {
-      "Branch": "DLF Porur",
-      "Branch ID": "127",
-      "Date": "2026-03-23",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
       "Original Price": 799
     },
     {

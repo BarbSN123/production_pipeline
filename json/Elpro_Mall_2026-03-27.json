@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19 08:04:19",
+  "generated_at": "2026-03-22 08:07:49",
   "records": [
     {
       "Branch": "Elpro Mall, MG Road",
@@ -8,10 +8,10 @@
       "Slot Time": "12:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -20,10 +20,10 @@
       "Slot Time": "12:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -56,10 +56,10 @@
       "Slot Time": "12:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -68,10 +68,10 @@
       "Slot Time": "12:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -104,10 +104,10 @@
       "Slot Time": "13:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -116,10 +116,10 @@
       "Slot Time": "13:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -152,10 +152,10 @@
       "Slot Time": "13:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -164,10 +164,10 @@
       "Slot Time": "13:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -200,10 +200,10 @@
       "Slot Time": "14:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -212,10 +212,10 @@
       "Slot Time": "14:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -248,10 +248,10 @@
       "Slot Time": "14:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -260,10 +260,10 @@
       "Slot Time": "14:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -296,10 +296,10 @@
       "Slot Time": "15:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -308,10 +308,10 @@
       "Slot Time": "15:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -344,10 +344,10 @@
       "Slot Time": "15:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -356,10 +356,10 @@
       "Slot Time": "15:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -392,10 +392,10 @@
       "Slot Time": "16:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -404,10 +404,10 @@
       "Slot Time": "16:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -440,10 +440,10 @@
       "Slot Time": "16:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -452,10 +452,10 @@
       "Slot Time": "16:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -488,10 +488,10 @@
       "Slot Time": "17:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -500,10 +500,10 @@
       "Slot Time": "17:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -536,10 +536,10 @@
       "Slot Time": "17:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -548,10 +548,10 @@
       "Slot Time": "17:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -584,10 +584,10 @@
       "Slot Time": "18:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -596,10 +596,10 @@
       "Slot Time": "18:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "Elpro Mall, MG Road",
@@ -633,8 +633,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 1099,
+      "Plan": "Sizzling 6 @999",
+      "Price": 999,
       "Original Price": 1099
     },
     {
@@ -657,8 +657,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 6 @999",
-      "Price": 999,
+      "Plan": "NON-VEG",
+      "Price": 1099,
       "Original Price": 1099
     },
     {
@@ -693,8 +693,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 1099,
+      "Plan": "Sizzling 6 @999",
+      "Price": 999,
       "Original Price": 1099
     },
     {
@@ -717,8 +717,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 6 @999",
-      "Price": 999,
+      "Plan": "NON-VEG",
+      "Price": 1099,
       "Original Price": 1099
     },
     {
@@ -753,8 +753,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 1099,
+      "Plan": "Sizzling 6 @999",
+      "Price": 999,
       "Original Price": 1099
     },
     {
@@ -777,8 +777,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 6 @999",
-      "Price": 999,
+      "Plan": "NON-VEG",
+      "Price": 1099,
       "Original Price": 1099
     },
     {
@@ -813,8 +813,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 1099,
+      "Plan": "Sizzling 6 @999",
+      "Price": 999,
       "Original Price": 1099
     },
     {
@@ -837,8 +837,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 6 @999",
-      "Price": 999,
+      "Plan": "NON-VEG",
+      "Price": 1099,
       "Original Price": 1099
     },
     {
@@ -873,8 +873,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 1099,
+      "Plan": "Sizzling 6 @999",
+      "Price": 999,
       "Original Price": 1099
     },
     {
@@ -897,8 +897,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 6 @999",
-      "Price": 999,
+      "Plan": "NON-VEG",
+      "Price": 1099,
       "Original Price": 1099
     },
     {

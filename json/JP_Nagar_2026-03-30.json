@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19 09:07:22",
+  "generated_at": "2026-03-22 09:18:19",
   "records": [
     {
       "Branch": "JP Nagar",
@@ -8,18 +8,6 @@
       "Slot Time": "12:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "12:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 599,
@@ -33,6 +21,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -56,18 +56,6 @@
       "Slot Time": "12:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "12:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 599,
@@ -81,6 +69,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -104,18 +104,6 @@
       "Slot Time": "13:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "13:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 599,
@@ -129,6 +117,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -152,18 +152,6 @@
       "Slot Time": "13:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "13:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 599,
@@ -177,6 +165,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -200,18 +200,6 @@
       "Slot Time": "14:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "14:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 599,
@@ -225,6 +213,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -248,18 +248,6 @@
       "Slot Time": "14:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "14:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 599,
@@ -273,6 +261,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -296,18 +296,6 @@
       "Slot Time": "15:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "15:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 599,
@@ -321,6 +309,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -344,18 +344,6 @@
       "Slot Time": "15:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "15:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 599,
@@ -369,6 +357,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -392,18 +392,6 @@
       "Slot Time": "16:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "16:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 599,
@@ -417,6 +405,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -440,18 +440,6 @@
       "Slot Time": "16:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "16:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 599,
@@ -465,6 +453,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 599,
       "Original Price": 649
@@ -488,10 +488,10 @@
       "Slot Time": "17:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "JP Nagar",
@@ -500,10 +500,10 @@
       "Slot Time": "17:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "JP Nagar",
@@ -536,10 +536,10 @@
       "Slot Time": "17:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "JP Nagar",
@@ -548,10 +548,10 @@
       "Slot Time": "17:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "JP Nagar",
@@ -584,10 +584,10 @@
       "Slot Time": "18:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 649,
-      "Original Price": 649
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
     },
     {
       "Branch": "JP Nagar",
@@ -596,10 +596,10 @@
       "Slot Time": "18:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
     },
     {
       "Branch": "JP Nagar",
@@ -624,30 +624,6 @@
       "Plan": "Kid (6-9 years)",
       "Price": 399,
       "Original Price": 399
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
     },
     {
       "Branch": "JP Nagar",
@@ -668,6 +644,30 @@
       "Slot Time": "18:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "JP Nagar",
+      "Branch ID": "15",
+      "Date": "2026-03-30",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 649,
@@ -693,8 +693,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 699,
+      "Plan": "Super 6 @666",
+      "Price": 666,
       "Original Price": 699
     },
     {
@@ -717,8 +717,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "NON-VEG",
+      "Price": 699,
       "Original Price": 699
     },
     {
@@ -753,8 +753,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 699,
+      "Plan": "Super 6 @666",
+      "Price": 666,
       "Original Price": 699
     },
     {
@@ -777,8 +777,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "NON-VEG",
+      "Price": 699,
       "Original Price": 699
     },
     {
@@ -813,8 +813,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 699,
+      "Plan": "Super 6 @666",
+      "Price": 666,
       "Original Price": 699
     },
     {
@@ -837,8 +837,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "NON-VEG",
+      "Price": 699,
       "Original Price": 699
     },
     {
@@ -873,8 +873,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 699,
+      "Plan": "Super 6 @666",
+      "Price": 666,
       "Original Price": 699
     },
     {
@@ -897,8 +897,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "NON-VEG",
+      "Price": 699,
       "Original Price": 699
     },
     {
