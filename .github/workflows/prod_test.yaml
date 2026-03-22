@@ -3,7 +3,7 @@ name: BBQ Scraper Production
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 */3 * *'   # Runs every 3 days at 6 AM
+    - cron: '0 6 */3 * *'
 
 permissions:
   contents: write
@@ -75,7 +75,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      # ✅ CLEAN OLD FILES
+      # ✅ CLEANUP
       - name: Clean old JSON files
         run: |
           echo "🧹 Cleaning old JSON files..."
@@ -92,12 +92,7 @@ jobs:
       # ✅ MOVE FILES
       - name: Move JSON files
         run: |
-          if [ -d "json_artifacts" ]; then
-            find json_artifacts -name "*.json" -exec cp {} json/ \;
-          else
-            echo "❌ No artifacts found!"
-            exit 1
-          fi
+          find json_artifacts -name "*.json" -exec cp {} json/ \;
 
       # ✅ DEBUG
       - name: Show generated files
@@ -105,25 +100,19 @@ jobs:
           echo "📂 Files after merge:"
           ls -l json/
 
-      # ✅ RUN MERGER SCRIPT
+      # ✅ RUN MERGER
       - name: Run merger
         run: |
           python merger.py || { echo "❌ Merger failed"; exit 1; }
 
-      # ✅ FINAL GIT (BULLETPROOF)
+      # ✅ FINAL GIT (NO PULL)
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          # Stage EVERYTHING (important for deletions)
           git add -A
 
-          # Commit only if changes exist
           git diff --cached --quiet || git commit -m "Auto update buffet data"
 
-          # Pull safely (ignore minor rebase issues)
-          git pull --rebase origin main || true
-
-          # Push changes
           git push origin main
