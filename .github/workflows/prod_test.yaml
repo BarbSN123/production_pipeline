@@ -39,8 +39,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests
+      - run: pip install requests
 
       - name: Run scraper
         run: |
@@ -71,53 +70,46 @@ jobs:
         with:
           python-version: "3.11"
 
-      # 🧹 CLEAN LOCAL FOLDER
+      # 🔥 STEP 1: REMOVE OLD FILES FROM REPO FIRST
+      - name: Remove old repo JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git rm -r -f --ignore-unmatch json || true
+          mkdir -p json
+          echo "✅ Old repo json removed"
+
+      # 🧹 STEP 2: CLEAN LOCAL
       - name: Clean local JSON
         run: |
           rm -rf json
           mkdir json
           echo "✅ Local json cleaned"
 
-      # 📥 DOWNLOAD ARTIFACTS
+      # 📥 STEP 3: DOWNLOAD NEW DATA
       - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
           path: temp_data
 
-      # 📦 MOVE FILES INTO json/
+      # 📦 STEP 4: MOVE FILES
       - name: Move JSON files
         run: |
           find temp_data -name "*.json" -exec mv {} json/ \;
           rm -rf temp_data
-          echo "✅ Files moved"
+          echo "✅ New files ready"
 
       # 🔍 DEBUG
       - name: Show files
-        run: |
-          echo "Final JSON files:"
-          ls -l json/
+        run: ls -l json/
 
-      # 🧠 RUN MERGER
+      # 🧠 STEP 5: MERGE ONLY NEW FILES
       - name: Run merger
         run: python merger.py
 
-      # 🚀 CLEAN + PUSH (CRITICAL FIX)
-      - name: Commit & Push (Clean overwrite)
+      # 🚀 STEP 6: PUSH CLEAN DATA
+      - name: Commit & Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-
-          # REMOVE old tracked json files from repo
-          git rm -r -f --ignore-unmatch json || true
-
-          # recreate folder
-          mkdir -p json
-
-          # Add fresh files
           git add json/
-
-          # Commit if changes exist
           git diff --cached --quiet || git commit -m "Auto update buffet data"
-
-          # Push
           git push origin main
