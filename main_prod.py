@@ -52,7 +52,7 @@ files = [
     "fetch_push_json_Sakinaka.py",
     "fetch_push_json_Salt_Lake.py",
     "fetch_push_json_Sector_24.py",
-    "fetch_push_json_Sector_26.py",
+    # "fetch_push_json_Sector_26.py",
     "fetch_push_json_Sector_62.py",
     "fetch_push_json_Udeshna_Building.py",
     "fetch_push_json_Vadapalani.py",
