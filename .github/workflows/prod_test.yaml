@@ -55,7 +55,7 @@ jobs:
 
 # -------------------------
 # MERGER
-# -------------------------
+# -------------------------  
   merger:
     needs: scraper
     runs-on: ubuntu-latest
@@ -69,6 +69,14 @@ jobs:
         with:
           python-version: "3.11"
 
+      # CLEANUP STEP (CRITICAL FIX)
+      - name: Clean old JSON files
+        run: |
+          echo "🧹 Cleaning old JSON files..."
+          rm -rf json
+          mkdir json
+          echo "✅ Cleanup done"
+
       - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
@@ -76,20 +84,27 @@ jobs:
 
       - name: Move JSON files
         run: |
-          mkdir -p json
           find json_artifacts -name "*.json" -exec cp {} json/ \;
 
-      - name: Run merger
-        run: python merger.py
+      - name: Show generated files (DEBUG)
+        run: |
+          echo "📂 Files after merge:"
+          ls -l json/
 
-      - name: Commit & Pull latest
+      - name: Run merger
+        run: | 
+          python merger.py || { echo "❌ Merger failed"; exit 1; }
+
+      # CORRECT GIT FLOW
+      - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add json/
-          git commit -m "Auto update buffet data" || echo "No changes"
+
           git pull origin main --rebase
 
-      - name: Push safely
-        run: |
+          git add json/
+
+          git diff --cached --quiet || git commit -m "Auto update buffet data"
+
           git push origin main
