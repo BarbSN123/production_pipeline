@@ -107,8 +107,11 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          # 🔥 REMOVE old tracked json files from repo
-          git rm -r -f --ignore-unmatch json/
+          # REMOVE old tracked json files from repo
+          git rm -r -f --ignore-unmatch json || true
+
+          # recreate folder
+          mkdir -p json
 
           # Add fresh files
           git add json/
