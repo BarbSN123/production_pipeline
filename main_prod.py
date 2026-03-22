@@ -64,13 +64,6 @@ files = [
     "fetch_push_json_Waltair.py",
     "fetch_push_json_Yelahanka.py"
 ]
-# Cleaning Prvious Data
-print("🧹 Cleaning old JSON files...")
-
-for file in glob.glob("json/*.json"):
-    os.remove(file)
-
-print("✅ Old files deleted\n")
 # ---- read start and end index from workflow ----
 start = int(sys.argv[1])
 end = int(sys.argv[2])
