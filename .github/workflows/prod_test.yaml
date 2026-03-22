@@ -33,7 +33,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # IMPORTANT for proper git history
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -43,11 +43,12 @@ jobs:
 
       - name: Run scraper
         run: |
-          start=$(echo ${{ matrix.batch }} | cut -d' ' -f1)
-          end=$(echo ${{ matrix.batch }} | cut -d' ' -f2)
+          start=$(echo "${{ matrix.batch }}" | cut -d' ' -f1)
+          end=$(echo "${{ matrix.batch }}" | cut -d' ' -f2)
           python main_prod.py $start $end
 
-      - uses: actions/upload-artifact@v4
+      - name: Upload JSON artifacts
+        uses: actions/upload-artifact@v4
         with:
           name: json_${{ matrix.batch }}
           path: json/
@@ -55,7 +56,7 @@ jobs:
 
 # -------------------------
 # MERGER
-# -------------------------  
+# -------------------------
   merger:
     needs: scraper
     runs-on: ubuntu-latest
@@ -69,7 +70,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      # CLEANUP STEP (CRITICAL FIX)
+      #  CLEANUP
       - name: Clean old JSON files
         run: |
           echo "🧹 Cleaning old JSON files..."
@@ -77,34 +78,47 @@ jobs:
           mkdir json
           echo "✅ Cleanup done"
 
+      #  DOWNLOAD ARTIFACTS
       - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
           path: json_artifacts
 
+      #  MOVE FILES SAFELY
       - name: Move JSON files
         run: |
-          find json_artifacts -name "*.json" -exec cp {} json/ \;
+          if [ -d "json_artifacts" ]; then
+            find json_artifacts -name "*.json" -exec cp {} json/ \;
+          else
+            echo "❌ No artifacts found!"
+            exit 1
+          fi
 
-      - name: Show generated files (DEBUG)
+      #  DEBUG VIEW
+      - name: Show generated files
         run: |
           echo "📂 Files after merge:"
           ls -l json/
 
+      #  RUN MERGER
       - name: Run merger
-        run: | 
+        run: |
           python merger.py || { echo "❌ Merger failed"; exit 1; }
 
-      # CORRECT GIT FLOW
+      #  FINAL GIT STEP (FIXED ORDER)
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-      
+
+          # Stage changes FIRST
           git add json/
-      
+
+          # Commit only if changes exist
           git diff --cached --quiet || git commit -m "Auto update buffet data"
-      
+
+          # Pull AFTER commit
           git pull origin main --rebase
-      
+
+          # Push
           git push origin main
