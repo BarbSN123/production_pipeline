@@ -1206,28 +1206,158 @@
       "Branch ID": "53",
       "Date": "2026-03-31",
       "Slot Time": "20:00:00",
-      "Error": "Failed to fetch"
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
+      
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-31",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-31",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 999,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-31",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 849,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-31",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Park Street",
       "Branch ID": "53",
       "Date": "2026-03-31",
       "Slot Time": "20:30:00",
-      "Error": "Failed to fetch"
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
+      
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-31",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-31",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 999,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-31",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Park Street",
       "Branch ID": "53",
       "Date": "2026-03-31",
       "Slot Time": "21:00:00",
-      "Error": "Failed to fetch"
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "VEG/NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-31",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Park Street",
       "Branch ID": "53",
       "Date": "2026-03-31",
       "Slot Time": "21:30:00",
-      "Error": "Failed to fetch"
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "VEG/NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-31",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Park Street",
@@ -236677,29 +236807,61 @@
       "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
       "Branch ID": "301",
       "Date": "2026-04-01",
-      "Slot Time": "17:00:00",
-      "Error": "Failed to fetch"
-    },
-    {
-      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
-      "Branch ID": "301",
-      "Date": "2026-04-01",
-      "Slot Time": "17:30:00",
-      "Error": "Failed to fetch"
-    },
-    {
-      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
-      "Branch ID": "301",
-      "Date": "2026-04-01",
-      "Slot Time": "18:00:00",
-      "Error": "Failed to fetch"
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
     },
     {
       "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
       "Branch ID": "301",
       "Date": "2026-04-01",
       "Slot Time": "18:30:00",
-      "Error": "Failed to fetch"
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-01",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 999,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-01",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 849,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-01",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
