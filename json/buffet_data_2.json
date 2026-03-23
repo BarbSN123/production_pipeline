@@ -33025,34 +33025,6 @@
       "Branch": "JP Nagar",
       "Branch ID": "15",
       "Date": "2026-03-30",
-      "Slot Time": "16:30:00",
-      "Error": "Failed to fetch"
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "17:00:00",
-      "Error": "Failed to fetch"
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "17:30:00",
-      "Error": "Failed to fetch"
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
-      "Slot Time": "18:00:00",
-      "Error": "Failed to fetch"
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-30",
       "Slot Time": "18:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
