@@ -90,10 +90,10 @@ def send_email():
     sender_password = "ghdt vdgv bern hgur"
     receiver_email = "bbqnation1010@gmail.com"
 
-    subject = "Price Change Alert - BBQ Scraper"
+    subject = "Price Data Updation Alert - BBQ"
 
     body = """
-Price changes have been detected.
+Price Data have been updated. Due to large amount of data being overwritten, kindly go through the dashboard link stated below. 
 
 Kindly refer to the updated collection from the link below:
 https://bbqscrapper.streamlit.app/
