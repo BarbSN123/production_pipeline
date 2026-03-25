@@ -133,50 +133,170 @@
 
 # This is temporary mannual in case merger fails
 
-name: Manual Merger Run (No Scraper)
+# name: Manual Merger Run (No Scraper)
+
+# on:
+#   workflow_dispatch:
+
+# permissions:
+#   contents: write
+
+# jobs:
+#   manual-merger:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       # 📥 Checkout repo (with your existing JSON files)
+#       - name: Checkout
+#         uses: actions/checkout@v4
+
+#       # 🐍 Setup Python
+#       - name: Setup Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: "3.11"
+
+#       # 🔥 Set correct 15-day range
+#       - name: Set date range
+#         run: |
+#           echo "START_DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
+#           echo "END_DATE=$(date -d '+14 days' +%Y-%m-%d)" >> $GITHUB_ENV
+
+#       # 🔍 Debug (optional but useful)
+#       - name: Show existing JSON files
+#         run: |
+#           echo "📂 Files in json folder:"
+#           ls -l json/ || echo "No json folder found"
+
+#       # 🧠 Run merger
+#       - name: Run merger
+#         run: python merger.py
+
+#       # 🚀 Commit & push results
+#       - name: Commit & Push
+#         run: |
+#           git config user.name "github-actions"
+#           git config user.email "actions@github.com"
+#           git add json/
+#           git diff --cached --quiet || git commit -m "Manual merger run (15-day filtered)"
+#           git push
+
+
+# Permanent Yaml With all improvements
+name: BBQ Scraper Production
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 6 */3 * *'
 
 permissions:
   contents: write
 
+concurrency:
+  group: bbq-production
+  cancel-in-progress: false
+
+
 jobs:
-  manual-merger:
+
+# -------------------------
+# SCRAPERS
+# -------------------------
+  scraper:
     runs-on: ubuntu-latest
 
-    steps:
-      # 📥 Checkout repo (with your existing JSON files)
-      - name: Checkout
-        uses: actions/checkout@v4
+    strategy:
+      matrix:
+        batch:
+          - "0 12"
+          - "12 24"
+          - "24 36"
+          - "36 48"
+          - "48 50"
 
-      # 🐍 Setup Python
-      - name: Setup Python
-        uses: actions/setup-python@v5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 🔥 Set correct 15-day range
+      - run: pip install requests
+
+      - name: Run scraper
+        run: |
+          start=$(echo "${{ matrix.batch }}" | cut -d' ' -f1)
+          end=$(echo "${{ matrix.batch }}" | cut -d' ' -f2)
+
+          export START_DATE=$(date +%Y-%m-%d)
+          export END_DATE=$(date -d "+14 days" +%Y-%m-%d)
+
+          python main_prod.py $start $end
+
+      - name: Upload JSON artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: json_${{ matrix.batch }}_${{ github.run_id }}
+          path: json/
+
+
+# -------------------------
+# MERGER
+# -------------------------
+  merger:
+    needs: scraper
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ✅ SET DATE RANGE (CRITICAL FIX)
       - name: Set date range
         run: |
           echo "START_DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
           echo "END_DATE=$(date -d '+14 days' +%Y-%m-%d)" >> $GITHUB_ENV
 
-      # 🔍 Debug (optional but useful)
-      - name: Show existing JSON files
-        run: |
-          echo "📂 Files in json folder:"
-          ls -l json/ || echo "No json folder found"
-
-      # 🧠 Run merger
-      - name: Run merger
-        run: python merger.py
-
-      # 🚀 Commit & push results
-      - name: Commit & Push
+      # 🔥 REMOVE OLD DATA
+      - name: Remove old repo JSON
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git rm -r -f --ignore-unmatch json || true
+          mkdir -p json
+
+      # 🧹 CLEAN LOCAL
+      - run: |
+          rm -rf json
+          mkdir json
+
+      # 📥 DOWNLOAD CURRENT RUN ONLY
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: json_*_${{ github.run_id }}
+          path: temp_data
+          merge-multiple: true
+
+      # 📦 MOVE FILES
+      - run: |
+          find temp_data -name "*.json" -exec mv {} json/ \;
+          rm -rf temp_data
+
+      # 🔍 DEBUG
+      - run: ls -l json/
+
+      # 🧠 MERGE
+      - name: Run merger
+        run: python merger.py
+
+      # 🚀 PUSH
+      - name: Commit & Push
+        run: |
           git add json/
-          git diff --cached --quiet || git commit -m "Manual merger run (15-day filtered)"
-          git push
+          git diff --cached --quiet || git commit -m "Auto update buffet data"
+          git push origin main
