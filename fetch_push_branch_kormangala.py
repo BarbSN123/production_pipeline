@@ -30,7 +30,7 @@ branches_config = {
 OUT_DIR = "json"
 
 # GitHub config
-REPO_URL = "https://github.com/diyanshu-anand/bbq-data.git"   #  repo
+REPO_URL = ""   #  repo
 BRANCH_NAME = "main"
 
 # Fetch settings
@@ -39,7 +39,7 @@ SLOT_DELAY = 0.6
 BRANCH_DELAY = 2.0
 RETRIES = 4
 RETRY_BASE_DELAY = 2.0
-DAYS_TO_FETCH = 15
+# DAYS_TO_FETCH = 15
 
 
 
@@ -148,13 +148,28 @@ def save_day_json(records, date_obj):
 
 # ========== MAIN RUN ==========
 if __name__ == "__main__":
-    print(f"🕒 Starting 15-day buffet data fetch + push...")
+    print(f"🕒 Starting 30-day buffet data fetch + push...")
 
-    start_date = datetime.now()
-    for d in range(DAYS_TO_FETCH):
-        date_obj = start_date + timedelta(days=d)
-        print(f"\n📅 === Fetching {date_obj.strftime('%Y-%m-%d')} ===")
-        records = fetch_day_slots(date_obj)
-        save_day_json(records, date_obj)
-
-    print("\n🎉 All done — 15-day data saved and pushed successfully!")
+    # start_date = datetime.now()
+    # for d in range(DAYS_TO_FETCH):
+    #     date_obj = start_date + timedelta(days=d)
+    #     print(f"\n📅 === Fetching {date_obj.strftime('%Y-%m-%d')} ===")
+    #     records = fetch_day_slots(date_obj)
+    #     save_day_json(records, date_obj)
+    
+    
+    start_date = datetime.strptime(os.getenv("START_DATE"), "%Y-%m-%d")
+    end_date = datetime.strptime(os.getenv("END_DATE"), "%Y-%m-%d")
+    
+    current_date = start_date
+    
+    while current_date <= end_date:
+        print(f"\n📅 === Fetching {current_date.strftime('%Y-%m-%d')} ===")
+    
+        records = fetch_day_slots(current_date)
+        save_day_json(records, current_date)
+    
+        current_date += timedelta(days=1)
+    
+        # print("\n🎉 All done — 30-day data saved and pushed successfully!")
+        print("\n🎉 Incremental fetch complete!")
