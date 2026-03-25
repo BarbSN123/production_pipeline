@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25 08:44:44",
+  "generated_at": "2026-03-25 16:20:41",
   "records": [
     {
       "Branch": "Salapuria Sattva Knowledge City",
@@ -645,44 +645,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-30",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-30",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-30",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -717,44 +681,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-30",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-30",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-30",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -789,44 +717,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-30",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-30",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-30",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {

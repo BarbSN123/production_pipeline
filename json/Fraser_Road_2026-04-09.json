@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25 12:47:43",
+  "generated_at": "2026-03-25 15:53:55",
   "records": [
     {
       "Branch": "One Mall, Fraser Road Area",
@@ -789,31 +789,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-09",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3249)",
-      "Price": 812,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-09",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -825,20 +801,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 899,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-09",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 749,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -861,31 +825,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-09",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3249)",
-      "Price": 812,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-09",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -897,20 +837,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 899,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-09",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 749,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -933,31 +861,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-09",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3249)",
-      "Price": 812,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-09",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -969,20 +873,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 899,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-09",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 749,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {

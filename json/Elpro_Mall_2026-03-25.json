@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25 07:56:49",
+  "generated_at": "2026-03-25 15:32:40",
   "records": [
     {
       "Branch": "Elpro Mall, MG Road",
@@ -800,6 +800,18 @@
       "Slot Time": "18:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-25",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 899,
@@ -851,6 +863,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@3549)",
       "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-25",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
       "Original Price": 999
     },
     {
@@ -911,6 +935,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@3549)",
       "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-25",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
       "Original Price": 999
     },
     {
@@ -971,6 +1007,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@3549)",
       "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-25",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
       "Original Price": 999
     },
     {
@@ -1031,6 +1079,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@3549)",
       "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-25",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
       "Original Price": 999
     },
     {

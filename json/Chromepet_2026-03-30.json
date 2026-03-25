@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 21:57:37",
+  "generated_at": "2026-03-25 14:40:59",
   "records": [
     {
       "Branch": "Chromepet",
@@ -114,28 +114,144 @@
       "Branch ID": "119",
       "Date": "2026-03-30",
       "Slot Time": "13:30:00",
-      "Error": "Failed to fetch"
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 599,
+      "Original Price": 599
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 399,
+      "Original Price": 399
     },
     {
       "Branch": "Chromepet",
       "Branch ID": "119",
       "Date": "2026-03-30",
       "Slot Time": "14:00:00",
-      "Error": "Failed to fetch"
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 599,
+      "Original Price": 599
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 399,
+      "Original Price": 399
     },
     {
       "Branch": "Chromepet",
       "Branch ID": "119",
       "Date": "2026-03-30",
       "Slot Time": "14:30:00",
-      "Error": "Failed to fetch"
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 599,
+      "Original Price": 599
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 399,
+      "Original Price": 399
     },
     {
       "Branch": "Chromepet",
       "Branch ID": "119",
       "Date": "2026-03-30",
       "Slot Time": "15:00:00",
-      "Error": "Failed to fetch"
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 599,
+      "Original Price": 599
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 399,
+      "Original Price": 399
     },
     {
       "Branch": "Chromepet",
@@ -361,6 +477,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -421,6 +549,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -481,6 +621,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -541,6 +693,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -592,6 +756,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 449,
       "Original Price": 449
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "Chromepet",
@@ -664,6 +840,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "Chromepet",
@@ -688,6 +876,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "Chromepet",
@@ -712,6 +912,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "Chromepet",
@@ -736,6 +948,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-03-30",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "Chromepet",

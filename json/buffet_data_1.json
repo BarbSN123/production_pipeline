@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25 13:46:34",
+  "generated_at": "2026-03-25 16:55:25",
   "records": [
     {
       "Branch": "City Plaza Building, Abids",
@@ -12549,8 +12549,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -12621,8 +12621,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -12693,8 +12693,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -12765,8 +12765,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -12837,8 +12837,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -12921,8 +12921,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -12957,8 +12957,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -12993,8 +12993,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -13029,8 +13029,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -13523,6 +13523,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-03-25",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -13583,6 +13595,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-03-25",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -13643,6 +13667,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-03-25",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -13703,6 +13739,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-03-25",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -14444,6 +14492,18 @@
       "Slot Time": "18:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
+      "Original Price": 799
+    },
+    {
+      "Branch": "DLF Porur",
+      "Branch ID": "127",
+      "Date": "2026-03-25",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 749,
@@ -14495,6 +14555,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "DLF Porur",
+      "Branch ID": "127",
+      "Date": "2026-03-25",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -14555,6 +14627,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "DLF Porur",
+      "Branch ID": "127",
+      "Date": "2026-03-25",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -14615,6 +14699,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "DLF Porur",
+      "Branch ID": "127",
+      "Date": "2026-03-25",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -14675,6 +14771,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "DLF Porur",
+      "Branch ID": "127",
+      "Date": "2026-03-25",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -15513,44 +15621,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -15585,44 +15657,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -15657,44 +15693,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "DSL Virtue Mall, Uppal",
-      "Branch ID": "557",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -17903,6 +17903,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@3549)",
       "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-25",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
       "Original Price": 999
     },
     {
@@ -17972,6 +17984,18 @@
       "Slot Time": "19:00:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-25",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 899,
@@ -18032,6 +18056,18 @@
       "Slot Time": "19:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-25",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 899,
@@ -18092,6 +18128,18 @@
       "Slot Time": "20:00:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-25",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 899,
@@ -18152,6 +18200,18 @@
       "Slot Time": "20:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 8 @888",
+      "Price": 888,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-25",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 899,
@@ -19125,31 +19185,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3249)",
-      "Price": 812,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -19161,20 +19197,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 899,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 749,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -19197,31 +19221,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3249)",
-      "Price": 812,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -19233,20 +19233,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 899,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 749,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -19269,31 +19257,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3249)",
-      "Price": 812,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -19305,20 +19269,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 899,
-      "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 749,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -19980,6 +19932,54 @@
       "Plan": "Kid (6-9 years)",
       "Price": 399,
       "Original Price": 399
+    },
+    {
+      "Branch": "Grand HighStreet Mall, Hinjewadi",
+      "Branch ID": "269",
+      "Date": "2026-03-25",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
+      "Original Price": 649
+    },
+    {
+      "Branch": "Grand HighStreet Mall, Hinjewadi",
+      "Branch ID": "269",
+      "Date": "2026-03-25",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 599,
+      "Original Price": 599
+    },
+    {
+      "Branch": "Grand HighStreet Mall, Hinjewadi",
+      "Branch ID": "269",
+      "Date": "2026-03-25",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 649,
+      "Original Price": 649
+    },
+    {
+      "Branch": "Grand HighStreet Mall, Hinjewadi",
+      "Branch ID": "269",
+      "Date": "2026-03-25",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 599,
+      "Original Price": 649
     }
   ]
 }

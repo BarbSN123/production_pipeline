@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-03-25 13:46:34",
+  "generated_at": "2026-03-25 16:55:25",
   "records": [
     {
       "Branch": "Park Street",
       "Branch ID": "53",
       "Date": "2026-03-25",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 799,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-25",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 699,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-25",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-25",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-25",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 749,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-25",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 799,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-03-25",
       "Slot Time": "16:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
@@ -7689,44 +7761,20 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Salapuria Sattva Knowledge City",
+      "Branch ID": "604",
+      "Date": "2026-03-25",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 699,
       "Original Price": 799
     },
     {
@@ -7749,44 +7797,20 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Salapuria Sattva Knowledge City",
+      "Branch ID": "604",
+      "Date": "2026-03-25",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 699,
       "Original Price": 799
     },
     {
@@ -7809,44 +7833,20 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Salapuria Sattva Knowledge City",
+      "Branch ID": "604",
+      "Date": "2026-03-25",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 799,
-      "Original Price": 799
-    },
-    {
-      "Branch": "Salapuria Sattva Knowledge City",
-      "Branch ID": "604",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 699,
       "Original Price": 799
     },
     {
@@ -7871,6 +7871,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Salapuria Sattva Knowledge City",
+      "Branch ID": "604",
+      "Date": "2026-03-25",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {
@@ -7931,6 +7943,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Cricket Mania(4@2949)",
       "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Salapuria Sattva Knowledge City",
+      "Branch ID": "604",
+      "Date": "2026-03-25",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     },
     {

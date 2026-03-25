@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25 08:15:32",
+  "generated_at": "2026-03-25 15:51:09",
   "records": [
     {
       "Branch": "One Mall, Fraser Road Area",
@@ -801,45 +801,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-05",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-05",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-05",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
-      "Original Price": 999
     },
     {
       "Branch": "One Mall, Fraser Road Area",
@@ -873,45 +837,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-05",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-05",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-05",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
-      "Original Price": 999
     },
     {
       "Branch": "One Mall, Fraser Road Area",
@@ -945,45 +873,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-05",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-05",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "One Mall, Fraser Road Area",
-      "Branch ID": "101",
-      "Date": "2026-04-05",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
-      "Original Price": 999
     },
     {
       "Branch": "One Mall, Fraser Road Area",
