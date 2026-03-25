@@ -45,6 +45,10 @@ jobs:
         run: |
           start=$(echo "${{ matrix.batch }}" | cut -d' ' -f1)
           end=$(echo "${{ matrix.batch }}" | cut -d' ' -f2)
+
+          export START_DATE=$(date +%Y-%m-%d)
+          export END_DATE=$(date +%Y-%m-%d)
+          
           python main_prod.py $start $end
 
       - name: Upload JSON artifacts
