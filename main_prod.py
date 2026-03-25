@@ -1,6 +1,3 @@
-#  Code with email alerts 
-# Production pipeline controller
-
 import subprocess
 import time
 import random
@@ -8,14 +5,18 @@ import sys
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-import glob
+from datetime import datetime, timedelta
 import os
 
+# ========= CONFIG =========
+DAYS_AHEAD = 1   #  control future window
+
+# ========= SCRIPT LIST =========
 files = [
     "fetch_push_branch_banajara_hills.py",
     "fetch_push_branch_kormangala.py",
     "fetch_push_branch_Rukamani_Colony_AS_Rao_Nagar.py",
-    "fetch_push_json_Abids.py"
+    "fetch_push_json_Abids.py",
     "fetch_push_json_Acropolis_Mall.py",
     "fetch_push_json_Alcazar_Mall_Jubilee_Hills.py",
     "fetch_push_json_Amanora.py",
@@ -54,7 +55,6 @@ files = [
     "fetch_push_json_Sakinaka.py",
     "fetch_push_json_Salt_Lake.py",
     "fetch_push_json_Sector_24.py",
-    # "fetch_push_json_Sector_26.py",
     "fetch_push_json_Sector_62.py",
     "fetch_push_json_Udeshna_Building.py",
     "fetch_push_json_Vadapalani.py",
@@ -64,16 +64,28 @@ files = [
     "fetch_push_json_Waltair.py",
     "fetch_push_json_Yelahanka.py"
 ]
-# ---- read start and end index from workflow ----
+
+# ========= DATE RANGE =========
+today = datetime.now().date()
+end_date = today + timedelta(days=DAYS_AHEAD)
+
+print(f"\n📅 Running only for: {today} → {end_date}")
+
+# pass via ENV (important)
+os.environ["START_DATE"] = str(today)
+os.environ["END_DATE"] = str(end_date)
+
+# ========= BATCH CONTROL =========
 start = int(sys.argv[1])
 end = int(sys.argv[2])
-
 selected_files = files[start:end]
 
 print(f"\n⚙️ Running scripts {start} → {end}")
 
+# ========= EXECUTION =========
 for f in selected_files:
     print(f"\n🚀 Running {f}")
+
     subprocess.run(["python", f])
 
     delay = random.uniform(6, 10)
@@ -82,24 +94,23 @@ for f in selected_files:
 
 print("\n✅ Job completed")
 
-# -------------------------
-# EMAIL FUNCTION
-# -------------------------
+# ========= EMAIL =========
 def send_email():
     sender_email = "mona100975@gmail.com"
     sender_password = "ghdt vdgv bern hgur"
     receiver_email = "bbqnation1010@gmail.com"
 
-    subject = "Price Data Updation Alert - BBQ"
+    subject = "Price Data Updated - BBQ"
 
-    body = """
-Price Data have been updated. Due to large amount of data being overwritten, kindly go through the dashboard link stated below. 
+    body = f"""
+New data generated for:
 
-Kindly refer to the updated collection from the link below:
+{today} → {end_date}
+
+Check dashboard:
 https://bbqscrapper.streamlit.app/
 
-Kindly wait for 2 minutes for the entire system to be updated and do not click the link as soon as you get as you might not get any updates.
-As, Processing the data takes 2 minutes to happen.
+Wait 2 minutes before opening.
 
 Regards,
 SERVER MO-203
@@ -109,7 +120,6 @@ SERVER MO-203
     msg["From"] = sender_email
     msg["To"] = receiver_email
     msg["Subject"] = subject
-
     msg.attach(MIMEText(body, "plain"))
 
     try:
@@ -123,7 +133,4 @@ SERVER MO-203
     except Exception as e:
         print(f"❌ Email failed: {e}")
 
-# -------------------------
-# TRIGGER EMAIL AFTER JOB
-# -------------------------
 send_email()
