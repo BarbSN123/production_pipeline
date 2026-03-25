@@ -2,23 +2,21 @@
 
 import os
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
 OUT_DIR = "json"
-SPLIT_COUNT = 3   # number of output files
+SPLIT_COUNT = 3
 
 
 def get_valid_dates():
     """
-    Get allowed date range from ENV (same as scraper)
+    STRICT: Must have ENV vars, otherwise fail
     """
     start = os.getenv("START_DATE")
     end = os.getenv("END_DATE")
 
     if not start or not end:
-        # fallback to today only
-        today = datetime.now().strftime("%Y-%m-%d")
-        return {today}
+        raise ValueError("❌ START_DATE or END_DATE not set in merger job")
 
     start_date = datetime.strptime(start, "%Y-%m-%d")
     end_date = datetime.strptime(end, "%Y-%m-%d")
@@ -39,30 +37,26 @@ def merge_all_jsons(out_dir=OUT_DIR):
 
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
-        print("📁 Created json directory")
 
-    # 🔥 GET VALID DATES
     valid_dates = get_valid_dates()
-    print(f"📅 Valid dates for merge: {valid_dates}")
+    print(f"📅 Valid dates: {sorted(valid_dates)}")
 
     all_data = {
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "records": []
     }
 
-    # 🔥 FILTER FILES BASED ON DATE
     json_files = sorted([
         f for f in os.listdir(out_dir)
         if f.endswith(".json")
         and not f.startswith("buffet_data")
-        and any(date in f for date in valid_dates)   # ✅ KEY FIX
     ])
 
     if not json_files:
-        print("⚠️ No valid JSON files found for current run.")
+        print("⚠️ No JSON files found")
         return False
 
-    print(f"\n📂 Found {len(json_files)} valid JSON files")
+    print(f"\n📂 Found {len(json_files)} JSON files")
 
     for fname in json_files:
 
@@ -72,27 +66,32 @@ def merge_all_jsons(out_dir=OUT_DIR):
             with open(path, "r", encoding="utf-8") as f:
                 data = json.load(f)
 
-                if "records" in data:
-                    all_data["records"].extend(data["records"])
-                    print(f"✅ {fname} merged ({len(data['records'])} records)")
-                else:
-                    print(f"⚠️ {fname} has no 'records' key")
+                if "records" not in data:
+                    print(f"⚠️ {fname} missing 'records'")
+                    continue
+
+                # 🔥 FILTER RECORDS BY DATE (NOT FILE NAME)
+                filtered = [
+                    r for r in data["records"]
+                    if str(r.get("date")) in valid_dates
+                ]
+
+                all_data["records"].extend(filtered)
+
+                print(f"✅ {fname}: {len(filtered)} valid records")
 
         except Exception as e:
-            print(f"❌ Skipped {fname}: {e}")
+            print(f"❌ Error in {fname}: {e}")
 
     total_records = len(all_data["records"])
-
-    print(f"\n📦 Total records merged: {total_records}")
+    print(f"\n📦 Total filtered records: {total_records}")
 
     if total_records == 0:
-        print("⚠️ No records available to split")
+        print("⚠️ No valid records after filtering")
         return False
 
-    # 🔥 SPLITTING
+    # 🔥 SPLIT
     chunk_size = (total_records + SPLIT_COUNT - 1) // SPLIT_COUNT
-
-    print(f"✂️ Splitting into {SPLIT_COUNT} files")
 
     for i in range(SPLIT_COUNT):
 
@@ -111,15 +110,11 @@ def merge_all_jsons(out_dir=OUT_DIR):
                 ensure_ascii=False
             )
 
-        size_kb = os.path.getsize(out_path) / 1024
+        print(f"📁 buffet_data_{i+1}.json → {len(chunk)} records")
 
-        print(f"📁 buffet_data_{i+1}.json created — {len(chunk)} records ({size_kb:.1f} KB)")
-
-    print("\n✅ Merge and split completed successfully")
-
+    print("\n✅ Merge completed successfully")
     return True
 
 
 if __name__ == "__main__":
-    from datetime import timedelta  # needed for date loop
     merge_all_jsons()
