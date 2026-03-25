@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 20:21:37",
+  "generated_at": "2026-03-25 12:47:14",
   "records": [
     {
       "Branch": "Westend Mall, Aundh",
@@ -9,8 +9,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -69,8 +69,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -129,8 +129,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -189,8 +189,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -249,8 +249,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -309,8 +309,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -369,8 +369,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -429,8 +429,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -489,8 +489,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -549,8 +549,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -609,8 +609,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -669,8 +669,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -729,8 +729,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2399)",
-      "Price": 600,
+      "Plan": "Cricket Mania(4@2449)",
+      "Price": 612,
       "Original Price": 649
     },
     {
@@ -789,20 +789,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Westend Mall, Aundh",
-      "Branch ID": "212",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {
@@ -861,20 +849,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Westend Mall, Aundh",
-      "Branch ID": "212",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {
@@ -933,20 +909,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Westend Mall, Aundh",
-      "Branch ID": "212",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {
@@ -1005,20 +969,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Westend Mall, Aundh",
-      "Branch ID": "212",
-      "Date": "2026-03-25",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {
@@ -1077,20 +1029,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Westend Mall, Aundh",
-      "Branch ID": "212",
-      "Date": "2026-03-25",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {
@@ -1149,8 +1089,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {
@@ -1185,8 +1125,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {
@@ -1221,8 +1161,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {
@@ -1257,8 +1197,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3499)",
-      "Price": 875,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {

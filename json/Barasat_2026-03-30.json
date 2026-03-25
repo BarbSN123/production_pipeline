@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 20:43:18",
+  "generated_at": "2026-03-25 13:01:48",
   "records": [
     {
       "Branch": "Jessore Road, Barasat",
@@ -488,6 +488,18 @@
       "Slot Time": "18:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2849)",
+      "Price": 712,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-30",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 699,
@@ -539,6 +551,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-30",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2849)",
+      "Price": 712,
       "Original Price": 749
     },
     {
@@ -599,6 +623,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-30",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2849)",
+      "Price": 712,
       "Original Price": 749
     },
     {
@@ -659,6 +695,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-30",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2849)",
+      "Price": 712,
       "Original Price": 749
     },
     {
@@ -719,6 +767,18 @@
       "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-30",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2849)",
+      "Price": 712,
       "Original Price": 749
     },
     {
@@ -780,6 +840,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 649,
       "Original Price": 649
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-30",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2849)",
+      "Price": 712,
+      "Original Price": 749
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -804,6 +876,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 649,
       "Original Price": 649
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-30",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2849)",
+      "Price": 712,
+      "Original Price": 749
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -828,6 +912,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 649,
       "Original Price": 649
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-30",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2849)",
+      "Price": 712,
+      "Original Price": 749
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -852,6 +948,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 649,
       "Original Price": 649
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-30",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2849)",
+      "Price": 712,
+      "Original Price": 749
     },
     {
       "Branch": "Jessore Road, Barasat",
