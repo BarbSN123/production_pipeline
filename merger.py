@@ -31,6 +31,18 @@ def get_valid_dates():
     return valid_dates
 
 
+def extract_date(record):
+    """
+    Handles different key formats safely
+    """
+    return (
+        record.get("Date")
+        or record.get("date")
+        or record.get("booking_date")
+        or record.get("day")
+    )
+
+
 def merge_all_jsons(out_dir=OUT_DIR):
 
     print("\n🧩 Starting JSON merge process")
@@ -45,6 +57,9 @@ def merge_all_jsons(out_dir=OUT_DIR):
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "records": []
     }
+
+    # (optional but useful) to avoid duplicates
+    seen = set()
 
     json_files = sorted([
         f for f in os.listdir(out_dir)
@@ -70,15 +85,38 @@ def merge_all_jsons(out_dir=OUT_DIR):
                     print(f"⚠️ {fname} missing 'records'")
                     continue
 
-                # 🔥 FILTER RECORDS BY DATE (NOT FILE NAME)
-                filtered = [
-                    r for r in data["records"]
-                    if str(r.get("date")) in valid_dates
-                ]
+                valid_count = 0
 
-                all_data["records"].extend(filtered)
+                for r in data["records"]:
 
-                print(f"✅ {fname}: {len(filtered)} valid records")
+                    rec_date = extract_date(r)
+
+                    if not rec_date:
+                        continue
+
+                    rec_date = str(rec_date)
+
+                    if rec_date not in valid_dates:
+                        continue
+
+                    # 🔥 OPTIONAL DEDUP (based on key fields)
+                    unique_key = (
+                        r.get("Branch"),
+                        r.get("Date") or r.get("date"),
+                        r.get("Slot Time"),
+                        r.get("Food Type"),
+                        r.get("Plan")
+                    )
+
+                    if unique_key in seen:
+                        continue
+
+                    seen.add(unique_key)
+
+                    all_data["records"].append(r)
+                    valid_count += 1
+
+                print(f"✅ {fname}: {valid_count} valid records")
 
         except Exception as e:
             print(f"❌ Error in {fname}: {e}")
@@ -110,7 +148,8 @@ def merge_all_jsons(out_dir=OUT_DIR):
                 ensure_ascii=False
             )
 
-        print(f"📁 buffet_data_{i+1}.json → {len(chunk)} records")
+        size_kb = os.path.getsize(out_path) / 1024
+        print(f"📁 buffet_data_{i+1}.json → {len(chunk)} records ({size_kb:.1f} KB)")
 
     print("\n✅ Merge completed successfully")
     return True
