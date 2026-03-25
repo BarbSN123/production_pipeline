@@ -95,11 +95,18 @@ jobs:
         run: rm -rf temp_data || true
         
       # 📥 STEP 3: DOWNLOAD NEW DATA
-      - name: Download artifacts (current only)
+      # - name: Download artifacts (current only)
+      #   uses: actions/download-artifact@v4
+      #   with:
+      #     path: temp_data
+      #     merge-multiple: false
+
+      - name: Download only current run artifacts
         uses: actions/download-artifact@v4
         with:
+          pattern: json_*_${{ github.run_id }}
           path: temp_data
-          merge-multiple: false
+          merge-multiple: true
 
       # 📦 STEP 4: MOVE FILES
       - name: Move JSON files
