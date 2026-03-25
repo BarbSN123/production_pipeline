@@ -1,4 +1,3 @@
-# Final Workflow of merger has to be run in job 6 after all the task is done !!
 #!/usr/bin/env python3
 
 import os
@@ -6,35 +5,64 @@ import json
 from datetime import datetime
 
 OUT_DIR = "json"
-MASTER_FILE = "buffet_data.json"
 SPLIT_COUNT = 3   # number of output files
+
+
+def get_valid_dates():
+    """
+    Get allowed date range from ENV (same as scraper)
+    """
+    start = os.getenv("START_DATE")
+    end = os.getenv("END_DATE")
+
+    if not start or not end:
+        # fallback to today only
+        today = datetime.now().strftime("%Y-%m-%d")
+        return {today}
+
+    start_date = datetime.strptime(start, "%Y-%m-%d")
+    end_date = datetime.strptime(end, "%Y-%m-%d")
+
+    valid_dates = set()
+    current = start_date
+
+    while current <= end_date:
+        valid_dates.add(current.strftime("%Y-%m-%d"))
+        current += timedelta(days=1)
+
+    return valid_dates
 
 
 def merge_all_jsons(out_dir=OUT_DIR):
 
     print("\n🧩 Starting JSON merge process")
 
-    # ensure json directory exists
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
         print("📁 Created json directory")
+
+    # 🔥 GET VALID DATES
+    valid_dates = get_valid_dates()
+    print(f"📅 Valid dates for merge: {valid_dates}")
 
     all_data = {
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "records": []
     }
 
-    # collect json files
+    # 🔥 FILTER FILES BASED ON DATE
     json_files = sorted([
         f for f in os.listdir(out_dir)
-        if f.endswith(".json") and not f.startswith("buffet_data")
+        if f.endswith(".json")
+        and not f.startswith("buffet_data")
+        and any(date in f for date in valid_dates)   # ✅ KEY FIX
     ])
 
     if not json_files:
-        print("⚠️ No branch JSON files found.")
+        print("⚠️ No valid JSON files found for current run.")
         return False
 
-    print(f"\n📂 Found {len(json_files)} branch JSON files")
+    print(f"\n📂 Found {len(json_files)} valid JSON files")
 
     for fname in json_files:
 
@@ -61,7 +89,7 @@ def merge_all_jsons(out_dir=OUT_DIR):
         print("⚠️ No records available to split")
         return False
 
-    # splitting
+    # 🔥 SPLITTING
     chunk_size = (total_records + SPLIT_COUNT - 1) // SPLIT_COUNT
 
     print(f"✂️ Splitting into {SPLIT_COUNT} files")
@@ -93,4 +121,5 @@ def merge_all_jsons(out_dir=OUT_DIR):
 
 
 if __name__ == "__main__":
+    from datetime import timedelta  # needed for date loop
     merge_all_jsons()
