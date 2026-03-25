@@ -50,11 +50,11 @@ jobs:
           export END_DATE=$(date +%Y-%m-%d)
           
           python main_prod.py $start $end
-
+          
       - name: Upload JSON artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: json_${{ matrix.batch }}
+          name: json_${{ matrix.batch }}_${{ github.run_id }}
           path: json/
 
 
@@ -89,12 +89,17 @@ jobs:
           rm -rf json
           mkdir json
           echo "✅ Local json cleaned"
-
+      
+      # STEP 3.1: Clean temp files
+      - name: Clean temp_data
+        run: rm -rf temp_data || true
+        
       # 📥 STEP 3: DOWNLOAD NEW DATA
-      - name: Download artifacts
+      - name: Download artifacts (current only)
         uses: actions/download-artifact@v4
         with:
           path: temp_data
+          merge-multiple: false
 
       # 📦 STEP 4: MOVE FILES
       - name: Move JSON files
