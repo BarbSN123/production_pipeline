@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 18:58:55",
+  "generated_at": "2026-03-25 07:19:04",
   "records": [
     {
       "Branch": "Town Hall, Coimbatore",
@@ -477,6 +477,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-04-01",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -537,6 +549,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-04-01",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -597,6 +621,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-04-01",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -657,6 +693,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-04-01",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -708,6 +756,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 449,
       "Original Price": 449
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-04-01",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "Town Hall, Coimbatore",
@@ -780,6 +840,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-04-01",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "Town Hall, Coimbatore",
@@ -804,6 +876,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-04-01",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "Town Hall, Coimbatore",
@@ -828,6 +912,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-04-01",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "Town Hall, Coimbatore",
@@ -852,6 +948,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "Town Hall, Coimbatore",
+      "Branch ID": "63",
+      "Date": "2026-04-01",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "Town Hall, Coimbatore",

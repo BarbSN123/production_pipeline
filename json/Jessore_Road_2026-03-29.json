@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 21:37:11",
+  "generated_at": "2026-03-25 08:55:00",
   "records": [
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -789,44 +789,20 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 6 @999",
-      "Price": 999,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 1099,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
+      "Plan": "VEG / NON-VEG",
       "Price": 949,
+      "Original Price": 949
+    },
+    {
+      "Branch": "Diamond Plaza, Jessore Road",
+      "Branch ID": "112",
+      "Date": "2026-03-29",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
       "Original Price": 1099
     },
     {
@@ -849,44 +825,20 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 6 @999",
-      "Price": 999,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 1099,
-      "Original Price": 1099
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-29",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
+      "Plan": "VEG / NON-VEG",
       "Price": 949,
+      "Original Price": 949
+    },
+    {
+      "Branch": "Diamond Plaza, Jessore Road",
+      "Branch ID": "112",
+      "Date": "2026-03-29",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
       "Original Price": 1099
     },
     {
@@ -900,6 +852,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 499,
       "Original Price": 499
+    },
+    {
+      "Branch": "Diamond Plaza, Jessore Road",
+      "Branch ID": "112",
+      "Date": "2026-03-29",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -969,6 +933,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "Diamond Plaza, Jessore Road",
+      "Branch ID": "112",
+      "Date": "2026-03-29",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 6 @999",
       "Price": 999,
       "Original Price": 1099
@@ -1020,6 +996,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 499,
       "Original Price": 499
+    },
+    {
+      "Branch": "Diamond Plaza, Jessore Road",
+      "Branch ID": "112",
+      "Date": "2026-03-29",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -1092,6 +1080,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 949,
       "Original Price": 949
+    },
+    {
+      "Branch": "Diamond Plaza, Jessore Road",
+      "Branch ID": "112",
+      "Date": "2026-03-29",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -1116,6 +1116,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 949,
       "Original Price": 949
+    },
+    {
+      "Branch": "Diamond Plaza, Jessore Road",
+      "Branch ID": "112",
+      "Date": "2026-03-29",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -1140,6 +1152,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 949,
       "Original Price": 949
+    },
+    {
+      "Branch": "Diamond Plaza, Jessore Road",
+      "Branch ID": "112",
+      "Date": "2026-03-29",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -1164,6 +1188,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 949,
       "Original Price": 949
+    },
+    {
+      "Branch": "Diamond Plaza, Jessore Road",
+      "Branch ID": "112",
+      "Date": "2026-03-29",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Diamond Plaza, Jessore Road",

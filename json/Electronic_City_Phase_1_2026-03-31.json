@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 19:50:33",
+  "generated_at": "2026-03-25 07:50:23",
   "records": [
     {
       "Branch": "Electronic City- Ph I",
@@ -621,6 +621,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-31",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -681,6 +693,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-31",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -741,6 +765,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-31",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -801,6 +837,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-31",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -852,6 +900,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 399,
       "Original Price": 399
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-31",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",
@@ -921,6 +981,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-31",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -945,6 +1017,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-31",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -969,6 +1053,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-31",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -984,6 +1080,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 399,
       "Original Price": 399
+    },
+    {
+      "Branch": "Electronic City- Ph I",
+      "Branch ID": "17",
+      "Date": "2026-03-31",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
     },
     {
       "Branch": "Electronic City- Ph I",

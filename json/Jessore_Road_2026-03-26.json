@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 21:35:14",
+  "generated_at": "2026-03-25 08:52:55",
   "records": [
     {
       "Branch": "Diamond Plaza, Jessore Road",
@@ -789,31 +789,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-26",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-26",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -825,20 +801,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 899,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-26",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 749,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -861,31 +825,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-26",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-26",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -897,20 +837,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 899,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Diamond Plaza, Jessore Road",
-      "Branch ID": "112",
-      "Date": "2026-03-26",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 749,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -945,8 +873,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -1017,8 +945,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -1089,8 +1017,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -1161,8 +1089,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -1197,8 +1125,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -1233,8 +1161,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -1269,8 +1197,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {

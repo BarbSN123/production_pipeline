@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 21:51:43",
+  "generated_at": "2026-03-25 09:02:59",
   "records": [
     {
       "Branch": "JP Nagar",
@@ -9,8 +9,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -81,8 +81,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -153,8 +153,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -225,8 +225,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -297,8 +297,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -369,8 +369,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -441,8 +441,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -513,8 +513,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -585,8 +585,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -657,8 +657,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -729,8 +729,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -801,8 +801,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -873,8 +873,8 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@2899)",
-      "Price": 725,
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
       "Original Price": 799
     },
     {
@@ -936,30 +936,6 @@
       "Plan": "Kid (6-9 years)",
       "Price": 449,
       "Original Price": 449
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-25",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
     },
     {
       "Branch": "JP Nagar",
@@ -1016,30 +992,6 @@
       "Slot Time": "19:00:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-25",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 799,
@@ -1080,30 +1032,6 @@
       "Plan": "Kid (6-9 years)",
       "Price": 499,
       "Original Price": 499
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-25",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
     },
     {
       "Branch": "JP Nagar",
@@ -1160,30 +1088,6 @@
       "Slot Time": "20:00:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-25",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-25",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
       "Price": 799,
@@ -1224,30 +1128,6 @@
       "Plan": "Kid (6-9 years)",
       "Price": 499,
       "Original Price": 499
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-25",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 7 @777",
-      "Price": 777,
-      "Original Price": 899
-    },
-    {
-      "Branch": "JP Nagar",
-      "Branch ID": "15",
-      "Date": "2026-03-25",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
-      "Original Price": 899
     },
     {
       "Branch": "JP Nagar",
@@ -1317,8 +1197,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -1353,8 +1233,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -1389,8 +1269,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
@@ -1425,8 +1305,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "March Mania(4@3199)",
-      "Price": 800,
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
       "Original Price": 899
     },
     {
