@@ -147,6 +147,9 @@ def save_day_json(records, date_obj):
     return out_path
 
 # ========== MAIN RUN ==========
+print("START_DATE ENV:", os.getenv("START_DATE"))
+print("END_DATE ENV:", os.getenv("END_DATE"))
+
 if __name__ == "__main__":
     print(f"🕒 Starting 30-day buffet data fetch + push...")
 
@@ -162,7 +165,7 @@ if __name__ == "__main__":
     end_date = datetime.strptime(os.getenv("END_DATE"), "%Y-%m-%d")
     
     current_date = start_date
-    
+    print("Processing date:", current_date)
     while current_date <= end_date:
         print(f"\n📅 === Fetching {current_date.strftime('%Y-%m-%d')} ===")
     
