@@ -47,7 +47,7 @@ jobs:
           end=$(echo "${{ matrix.batch }}" | cut -d' ' -f2)
 
           export START_DATE=$(date +%Y-%m-%d)
-          export END_DATE=$(date +%Y-%m-%d)
+          export END_DATE=$(date -d "+14 days" +%Y-%m-%d)
           
           python main_prod.py $start $end
           
