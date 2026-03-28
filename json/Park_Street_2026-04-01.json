@@ -1178,4 +1178,48 @@
       "Original Price": 499
     }
   ]
+}Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-04-01",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-04-01",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "Park Street",
+      "Branch ID": "53",
+      "Date": "2026-04-01",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
+    }
+  ]
 }

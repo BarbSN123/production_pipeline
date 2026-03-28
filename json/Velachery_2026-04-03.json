@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 21:21:21",
+  "generated_at": "2026-03-28 08:38:29",
   "records": [
     {
       "Branch": "The Grand Mall Velachery",
@@ -331,6 +331,18 @@
       "Date": "2026-04-03",
       "Slot Time": "16:30:00",
       "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "16:30:00",
+      "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -343,11 +355,35 @@
       "Date": "2026-04-03",
       "Slot Time": "17:00:00",
       "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "17:00:00",
+      "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
       "Price": 449,
       "Original Price": 449
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "17:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "The Grand Mall Velachery",
@@ -369,6 +405,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "18:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -429,6 +477,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -489,6 +549,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -549,6 +621,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -609,6 +693,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
       "Original Price": 799
@@ -660,6 +756,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 449,
       "Original Price": 449
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "The Grand Mall Velachery",
@@ -732,6 +840,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "The Grand Mall Velachery",
@@ -756,6 +876,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "The Grand Mall Velachery",
@@ -780,6 +912,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "The Grand Mall Velachery",
@@ -804,6 +948,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
+    },
+    {
+      "Branch": "The Grand Mall Velachery",
+      "Branch ID": "28",
+      "Date": "2026-04-03",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2949)",
+      "Price": 737,
+      "Original Price": 799
     },
     {
       "Branch": "The Grand Mall Velachery",

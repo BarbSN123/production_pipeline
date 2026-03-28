@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 21:02:53",
+  "generated_at": "2026-03-28 08:26:05",
   "records": [
     {
       "Branch": "Vadapalani",
@@ -9,9 +9,9 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -31,6 +31,30 @@
       "Date": "2026-04-01",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -45,9 +69,9 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -60,6 +84,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -81,9 +129,9 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -103,6 +151,30 @@
       "Date": "2026-04-01",
       "Slot Time": "13:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -117,9 +189,9 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -132,6 +204,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -153,9 +249,9 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -175,6 +271,30 @@
       "Date": "2026-04-01",
       "Slot Time": "14:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -189,9 +309,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -204,6 +336,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -225,9 +381,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -247,6 +415,30 @@
       "Date": "2026-04-01",
       "Slot Time": "15:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -261,9 +453,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -276,6 +480,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -297,9 +525,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -319,6 +559,30 @@
       "Date": "2026-04-01",
       "Slot Time": "16:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -333,9 +597,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -348,6 +624,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -369,9 +669,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -391,6 +703,30 @@
       "Date": "2026-04-01",
       "Slot Time": "17:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -405,9 +741,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -420,6 +768,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -441,9 +813,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -456,6 +840,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Vadapalani",
@@ -479,7 +887,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Vadapalani",
@@ -490,18 +910,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Vadapalani",
-      "Branch ID": "11",
-      "Date": "2026-04-01",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -513,9 +921,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Vadapalani",
@@ -526,8 +946,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Vadapalani",
@@ -539,7 +959,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Vadapalani",
@@ -550,18 +982,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Vadapalani",
-      "Branch ID": "11",
-      "Date": "2026-04-01",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -573,9 +993,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Vadapalani",
@@ -586,8 +1018,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Vadapalani",
@@ -599,7 +1031,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Vadapalani",
@@ -610,18 +1054,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Vadapalani",
-      "Branch ID": "11",
-      "Date": "2026-04-01",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -633,9 +1065,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Vadapalani",
@@ -646,8 +1090,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Vadapalani",
@@ -659,7 +1103,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Vadapalani",
@@ -670,18 +1126,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Vadapalani",
-      "Branch ID": "11",
-      "Date": "2026-04-01",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -693,9 +1137,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Vadapalani",
@@ -706,8 +1162,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Vadapalani",
@@ -719,7 +1175,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Vadapalani",
@@ -730,18 +1198,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Vadapalani",
-      "Branch ID": "11",
-      "Date": "2026-04-01",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -753,9 +1209,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Vadapalani",
@@ -766,8 +1234,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Vadapalani",
@@ -787,11 +1255,23 @@
       "Date": "2026-04-01",
       "Slot Time": "21:00:00",
       "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Vadapalani",
@@ -811,11 +1291,23 @@
       "Date": "2026-04-01",
       "Slot Time": "21:30:00",
       "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Vadapalani",
@@ -835,11 +1327,23 @@
       "Date": "2026-04-01",
       "Slot Time": "22:00:00",
       "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Vadapalani",
@@ -859,11 +1363,23 @@
       "Date": "2026-04-01",
       "Slot Time": "22:30:00",
       "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Vadapalani",
+      "Branch ID": "11",
+      "Date": "2026-04-01",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     }
   ]
 }

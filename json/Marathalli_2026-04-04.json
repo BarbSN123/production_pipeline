@@ -1010,4 +1010,116 @@
       "Original Price": 399
     }
   ]
+} "Price": 399,
+      "Original Price": 399
+    },
+    {
+      "Branch": "More Mega Mall, Marathahalli",
+      "Branch ID": "545",
+      "Date": "2026-04-04",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "More Mega Mall, Marathahalli",
+      "Branch ID": "545",
+      "Date": "2026-04-04",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "More Mega Mall, Marathahalli",
+      "Branch ID": "545",
+      "Date": "2026-04-04",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 399,
+      "Original Price": 399
+    },
+    {
+      "Branch": "More Mega Mall, Marathahalli",
+      "Branch ID": "545",
+      "Date": "2026-04-04",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "More Mega Mall, Marathahalli",
+      "Branch ID": "545",
+      "Date": "2026-04-04",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "More Mega Mall, Marathahalli",
+      "Branch ID": "545",
+      "Date": "2026-04-04",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 399,
+      "Original Price": 399
+    },
+    {
+      "Branch": "More Mega Mall, Marathahalli",
+      "Branch ID": "545",
+      "Date": "2026-04-04",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "More Mega Mall, Marathahalli",
+      "Branch ID": "545",
+      "Date": "2026-04-04",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "More Mega Mall, Marathahalli",
+      "Branch ID": "545",
+      "Date": "2026-04-04",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 399,
+      "Original Price": 399
+    }
+  ]
 }

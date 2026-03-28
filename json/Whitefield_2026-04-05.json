@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 22:00:44",
+  "generated_at": "2026-03-28 09:01:44",
   "records": [
     {
       "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
@@ -9,6 +9,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -69,6 +81,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -129,6 +153,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -189,6 +225,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -249,6 +297,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -309,6 +369,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -369,6 +441,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -429,6 +513,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -489,6 +585,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -549,6 +657,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -609,6 +729,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -669,6 +801,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -729,6 +873,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -789,6 +945,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -849,6 +1017,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -909,6 +1089,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -969,6 +1161,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -1020,6 +1224,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 499,
       "Original Price": 499
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
     },
     {
       "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
@@ -1089,6 +1305,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
@@ -1113,6 +1341,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
@@ -1137,6 +1377,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
@@ -1152,6 +1404,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 499,
       "Original Price": 499
+    },
+    {
+      "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",
+      "Branch ID": "301",
+      "Date": "2026-04-05",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
     },
     {
       "Branch": "NEXUS SANTHINIKETHAN ,WHITEFIELD",

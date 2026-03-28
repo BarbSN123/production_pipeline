@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 20:28:00",
+  "generated_at": "2026-03-28 08:04:15",
   "records": [
     {
       "Branch": "Stellar IT Park, Sector 62",
@@ -633,8 +633,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {
@@ -644,34 +644,10 @@
       "Slot Time": "18:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
-    },
-    {
-      "Branch": "Stellar IT Park, Sector 62",
-      "Branch ID": "123",
-      "Date": "2026-04-02",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Stellar IT Park, Sector 62",
-      "Branch ID": "123",
-      "Date": "2026-04-02",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
-      "Original Price": 999
     },
     {
       "Branch": "Stellar IT Park, Sector 62",
@@ -693,8 +669,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
       "Original Price": 999
     },
     {
@@ -704,34 +680,10 @@
       "Slot Time": "19:00:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
-    },
-    {
-      "Branch": "Stellar IT Park, Sector 62",
-      "Branch ID": "123",
-      "Date": "2026-04-02",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Stellar IT Park, Sector 62",
-      "Branch ID": "123",
-      "Date": "2026-04-02",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
-      "Original Price": 999
     },
     {
       "Branch": "Stellar IT Park, Sector 62",
@@ -744,6 +696,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 499,
       "Original Price": 499
+    },
+    {
+      "Branch": "Stellar IT Park, Sector 62",
+      "Branch ID": "123",
+      "Date": "2026-04-02",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
     },
     {
       "Branch": "Stellar IT Park, Sector 62",
@@ -813,6 +777,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Stellar IT Park, Sector 62",
+      "Branch ID": "123",
+      "Date": "2026-04-02",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 8 @888",
       "Price": 888,
       "Original Price": 999
@@ -864,6 +840,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 499,
       "Original Price": 499
+    },
+    {
+      "Branch": "Stellar IT Park, Sector 62",
+      "Branch ID": "123",
+      "Date": "2026-04-02",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
     },
     {
       "Branch": "Stellar IT Park, Sector 62",
@@ -933,6 +921,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Stellar IT Park, Sector 62",
+      "Branch ID": "123",
+      "Date": "2026-04-02",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
@@ -957,6 +957,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Stellar IT Park, Sector 62",
+      "Branch ID": "123",
+      "Date": "2026-04-02",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
@@ -981,6 +993,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
+    },
+    {
+      "Branch": "Stellar IT Park, Sector 62",
+      "Branch ID": "123",
+      "Date": "2026-04-02",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
@@ -996,6 +1020,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 499,
       "Original Price": 499
+    },
+    {
+      "Branch": "Stellar IT Park, Sector 62",
+      "Branch ID": "123",
+      "Date": "2026-04-02",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3549)",
+      "Price": 887,
+      "Original Price": 999
     },
     {
       "Branch": "Stellar IT Park, Sector 62",

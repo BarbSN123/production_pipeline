@@ -1286,4 +1286,159 @@
       "Original Price": 449
     }
   ]
+}Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 749,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3349)",
+      "Price": 837,
+      "Original Price": 949
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 749,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3349)",
+      "Price": 837,
+      "Original Price": 949
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 749,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3349)",
+      "Price": 837,
+      "Original Price": 949
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 749,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3349)",
+      "Price": 837,
+      "Original Price": 949
+    },
+    {
+      "Branch": "Elpro Mall, MG Road",
+      "Branch ID": "190",
+      "Date": "2026-03-31",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 499,
+      "Original Price": 499
+    }
+  ]
 }

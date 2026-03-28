@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 19:16:46",
+  "generated_at": "2026-03-28 07:15:18",
   "records": [
     {
       "Branch": "Sachivalaya Marg",
@@ -489,6 +489,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sachivalaya Marg",
+      "Branch ID": "75",
+      "Date": "2026-04-02",
+      "Slot Time": "16:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -513,6 +525,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sachivalaya Marg",
+      "Branch ID": "75",
+      "Date": "2026-04-02",
+      "Slot Time": "16:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -537,6 +561,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sachivalaya Marg",
+      "Branch ID": "75",
+      "Date": "2026-04-02",
+      "Slot Time": "17:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -561,6 +597,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sachivalaya Marg",
+      "Branch ID": "75",
+      "Date": "2026-04-02",
+      "Slot Time": "17:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -585,8 +633,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
       "Original Price": 699
     },
     {
@@ -607,42 +655,6 @@
       "Date": "2026-04-02",
       "Slot Time": "18:00:00",
       "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "Sachivalaya Marg",
-      "Branch ID": "75",
-      "Date": "2026-04-02",
-      "Slot Time": "18:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Sachivalaya Marg",
-      "Branch ID": "75",
-      "Date": "2026-04-02",
-      "Slot Time": "18:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Sachivalaya Marg",
-      "Branch ID": "75",
-      "Date": "2026-04-02",
-      "Slot Time": "18:00:00",
-      "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -657,8 +669,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
       "Original Price": 699
     },
     {
@@ -668,33 +680,9 @@
       "Slot Time": "18:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "Sachivalaya Marg",
-      "Branch ID": "75",
-      "Date": "2026-04-02",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Sachivalaya Marg",
-      "Branch ID": "75",
-      "Date": "2026-04-02",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -717,8 +705,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
       "Original Price": 699
     },
     {
@@ -728,33 +716,9 @@
       "Slot Time": "19:00:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "Sachivalaya Marg",
-      "Branch ID": "75",
-      "Date": "2026-04-02",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Sachivalaya Marg",
-      "Branch ID": "75",
-      "Date": "2026-04-02",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -777,8 +741,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
       "Original Price": 699
     },
     {
@@ -788,33 +752,9 @@
       "Slot Time": "19:30:00",
       "Period": "Dinner",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "Sachivalaya Marg",
-      "Branch ID": "75",
-      "Date": "2026-04-02",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Sachivalaya Marg",
-      "Branch ID": "75",
-      "Date": "2026-04-02",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -828,6 +768,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 399,
       "Original Price": 399
+    },
+    {
+      "Branch": "Sachivalaya Marg",
+      "Branch ID": "75",
+      "Date": "2026-04-02",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
     },
     {
       "Branch": "Sachivalaya Marg",
@@ -888,6 +840,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 399,
       "Original Price": 399
+    },
+    {
+      "Branch": "Sachivalaya Marg",
+      "Branch ID": "75",
+      "Date": "2026-04-02",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
     },
     {
       "Branch": "Sachivalaya Marg",
@@ -957,6 +921,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sachivalaya Marg",
+      "Branch ID": "75",
+      "Date": "2026-04-02",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -981,6 +957,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sachivalaya Marg",
+      "Branch ID": "75",
+      "Date": "2026-04-02",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -1005,6 +993,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sachivalaya Marg",
+      "Branch ID": "75",
+      "Date": "2026-04-02",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "VEG / NON-VEG",
       "Price": 699,
       "Original Price": 699
@@ -1020,6 +1020,18 @@
       "Plan": "Kid (6-9 years)",
       "Price": 399,
       "Original Price": 399
+    },
+    {
+      "Branch": "Sachivalaya Marg",
+      "Branch ID": "75",
+      "Date": "2026-04-02",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
     },
     {
       "Branch": "Sachivalaya Marg",
