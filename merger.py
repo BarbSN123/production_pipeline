@@ -5,15 +5,14 @@ import json
 from datetime import datetime, timedelta
 import re
 
-
 OUT_DIR = "json"
 SPLIT_COUNT = 3
 
 
+# =========================
+# GET VALID DATES
+# =========================
 def get_valid_dates():
-    """
-    STRICT: Must have ENV vars, otherwise fail
-    """
     start = os.getenv("START_DATE")
     end = os.getenv("END_DATE")
 
@@ -33,10 +32,10 @@ def get_valid_dates():
     return valid_dates
 
 
+# =========================
+# EXTRACT DATE FROM RECORD
+# =========================
 def extract_date(record):
-    """
-    Handles different key formats safely
-    """
     return (
         record.get("Date")
         or record.get("date")
@@ -45,6 +44,21 @@ def extract_date(record):
     )
 
 
+# =========================
+# SAFE JSON LOAD
+# =========================
+def safe_load_json(path):
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"⚠️ Skipping corrupted file: {path} ({e})")
+        return None
+
+
+# =========================
+# MERGE FUNCTION
+# =========================
 def merge_all_jsons(out_dir=OUT_DIR):
 
     print("\n🧩 Starting JSON merge process")
@@ -60,68 +74,68 @@ def merge_all_jsons(out_dir=OUT_DIR):
         "records": []
     }
 
-    # (optional but useful) to avoid duplicates
     seen = set()
 
-    json_files = sorted([
-        f for f in os.listdir(out_dir)
-        if f.endswith(".json")
-        and not f.startswith("buffet_data")
-    ])
+    # ✅ ONLY PICK FILES RELEVANT TO VALID DATES
+    json_files = []
+    for f in os.listdir(out_dir):
+        if not f.endswith(".json"):
+            continue
+        if f.startswith("buffet_data"):
+            continue
+        if any(date in f for date in valid_dates):
+            json_files.append(f)
+
+    json_files.sort()
 
     if not json_files:
         print("⚠️ No JSON files found")
         return False
 
-    print(f"\n📂 Found {len(json_files)} JSON files")
+    print(f"\n📂 Found {len(json_files)} relevant JSON files")
 
     for fname in json_files:
-
         path = os.path.join(out_dir, fname)
 
-        try:
-            with open(path, "r", encoding="utf-8") as f:
-                data = json.load(f)
+        data = safe_load_json(path)
+        if not data:
+            continue
 
-                if "records" not in data:
-                    print(f"⚠️ {fname} missing 'records'")
-                    continue
+        if "records" not in data:
+            print(f"⚠️ {fname} missing 'records'")
+            continue
 
-                valid_count = 0
+        valid_count = 0
 
-                for r in data["records"]:
+        for r in data["records"]:
 
-                    rec_date = extract_date(r)
+            rec_date = extract_date(r)
 
-                    if not rec_date:
-                        continue
+            if not rec_date:
+                continue
 
-                    rec_date = str(rec_date)
+            # ✅ FIXED DATE NORMALIZATION
+            rec_date = str(rec_date).strip()[:10]
 
-                    if rec_date not in valid_dates:
-                        continue
+            if rec_date not in valid_dates:
+                continue
 
-                    # 🔥 OPTIONAL DEDUP (based on key fields)
-                    unique_key = (
-                        r.get("Branch"),
-                        r.get("Date") or r.get("date"),
-                        r.get("Slot Time"),
-                        r.get("Food Type"),
-                        r.get("Plan")
-                    )
+            unique_key = (
+                r.get("Branch"),
+                rec_date,
+                r.get("Slot Time"),
+                r.get("Food Type"),
+                r.get("Plan")
+            )
 
-                    if unique_key in seen:
-                        continue
+            if unique_key in seen:
+                continue
 
-                    seen.add(unique_key)
+            seen.add(unique_key)
+            all_data["records"].append(r)
+            valid_count += 1
 
-                    all_data["records"].append(r)
-                    valid_count += 1
-
-                print(f"✅ {fname}: {valid_count} valid records")
-
-        except Exception as e:
-            print(f"❌ Error in {fname}: {e}")
+        print(f"✅ {fname}: {valid_count} valid records")
 
     total_records = len(all_data["records"])
     print(f"\n📦 Total filtered records: {total_records}")
@@ -130,7 +144,9 @@ def merge_all_jsons(out_dir=OUT_DIR):
         print("⚠️ No valid records after filtering")
         return False
 
-    # 🔥 SPLIT
+    # =========================
+    # SPLIT OUTPUT
+    # =========================
     chunk_size = (total_records + SPLIT_COUNT - 1) // SPLIT_COUNT
 
     for i in range(SPLIT_COUNT):
@@ -156,49 +172,55 @@ def merge_all_jsons(out_dir=OUT_DIR):
     print("\n✅ Merge completed successfully")
     return True
 
+
+# =========================
+# CLEANUP FUNCTION
+# =========================
 def cleanup_old_files(out_dir=OUT_DIR, keep_days=15):
-    from datetime import datetime, timedelta
 
     print("\n🧹 Running date-based cleanup...")
 
-    today = datetime.now().date()
+    # ✅ USE START_DATE INSTEAD OF SYSTEM TIME
+    start = os.getenv("START_DATE")
+    today = datetime.strptime(start, "%Y-%m-%d").date()
     max_date = today + timedelta(days=keep_days)
 
     for fname in os.listdir(out_dir):
+
         if not fname.endswith(".json"):
             continue
 
-        # Skip final merged files
         if fname.startswith("buffet_data"):
             continue
 
         try:
-            # Extract date from filename
-            # Example: Yelahanka_2026-03-22_123456.json
-            
+            # ✅ REGEX DATE EXTRACTION (WORKS FOR ALL FILENAMES)
             match = re.search(r"\d{4}-\d{2}-\d{2}", fname)
-            
+
             if not match:
                 print(f"⚠️ No date found in {fname}")
                 continue
-            
+
             date_str = match.group()
             file_date = datetime.strptime(date_str, "%Y-%m-%d").date()
-            file_date = datetime.strptime(date_str, "%Y-%m-%d").date()
 
-            # ❌ Delete if older than today
             if file_date < today:
                 os.remove(os.path.join(out_dir, fname))
                 print(f"🗑️ Deleted old file: {fname}")
 
-            # ❌ Delete if too far in future (safety)
             elif file_date > max_date:
                 os.remove(os.path.join(out_dir, fname))
                 print(f"🗑️ Deleted future overflow: {fname}")
 
         except Exception as e:
             print(f"⚠️ Skipping {fname}: {e}")
-            
+
+
+# =========================
+# MAIN
+# =========================
 if __name__ == "__main__":
-    merge_all_jsons()
-    cleanup_old_files()
+    success = merge_all_jsons()
+
+    if success:
+        cleanup_old_files()
