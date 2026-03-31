@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22 21:21:57",
+  "generated_at": "2026-03-31 08:49:07",
   "records": [
     {
       "Branch": "Sector 5, Nerul, Mumbai",
@@ -9,6 +9,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -69,6 +81,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -129,6 +153,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -189,6 +225,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -249,6 +297,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -309,6 +369,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -369,6 +441,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -429,6 +513,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -489,6 +585,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "15:45:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -549,6 +657,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -609,6 +729,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -669,6 +801,18 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Super 6 @666",
       "Price": 666,
       "Original Price": 699
@@ -729,6 +873,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "18:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 6 @999",
       "Price": 999,
       "Original Price": 1099
@@ -789,6 +945,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 6 @999",
       "Price": 999,
       "Original Price": 1099
@@ -849,6 +1017,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 6 @999",
       "Price": 999,
       "Original Price": 1099
@@ -909,6 +1089,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 6 @999",
       "Price": 999,
       "Original Price": 1099
@@ -969,6 +1161,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 6 @999",
       "Price": 999,
       "Original Price": 1099
@@ -1029,6 +1233,18 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "Sector 5, Nerul, Mumbai",
+      "Branch ID": "2",
+      "Date": "2026-04-03",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Sizzling 6 @999",
       "Price": 999,
       "Original Price": 1099
@@ -1075,134 +1291,6 @@
       "Date": "2026-04-03",
       "Slot Time": "20:30:00",
       "Period": "Dinner",
-      "Customer Type": "Child",
-      "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Sector 5, Nerul, Mumbai",
-      "Branch ID": "2",
-      "Date": "2026-04-03",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 949,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Sector 5, Nerul, Mumbai",
-      "Branch ID": "2",
-      "Date": "2026-04-03",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Child",
-      "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Sector 5, Nerul, Mumbai",
-      "Branch ID": "2",
-      "Date": "2026-04-03",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 949,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Sector 5, Nerul, Mumbai",
-      "Branch ID": "2",
-      "Date": "2026-04-03",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Child",
-      "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Sector 5, Nerul, Mumbai",
-      "Branch ID": "2",
-      "Date": "2026-04-03",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 949,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Sector 5, Nerul, Mumbai",
-      "Branch ID": "2",
-      "Date": "2026-04-03",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Child",
-      "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Sector 5, Nerul, Mumbai",
-      "Branch ID": "2",
-      "Date": "2026-04-03",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 949,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Sector 5, Nerul, Mumbai",
-      "Branch ID": "2",
-      "Date": "2026-04-03",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Child",
-      "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 499,
-      "Original Price": 499
-    },
-    {
-      "Branch": "Sector 5, Nerul, Mumbai",
-      "Branch ID": "2",
-      "Date": "2026-04-03",
-      "Slot Time": "22:45:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 949,
-      "Original Price": 949
-    },
-    {
-      "Branch": "Sector 5, Nerul, Mumbai",
-      "Branch ID": "2",
-      "Date": "2026-04-03",
-      "Slot Time": "22:45:00",
-      "Period": "Dinner",
-      "Customer Type": "Child",
-      "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 499,
-      "Original Price": 499
-    }
-  ]
-}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ner",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",

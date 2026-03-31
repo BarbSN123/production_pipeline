@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25 13:02:28",
+  "generated_at": "2026-03-31 08:34:00",
   "records": [
     {
       "Branch": "Jessore Road, Barasat",
@@ -9,9 +9,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -31,6 +43,30 @@
       "Date": "2026-03-31",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -45,9 +81,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -60,6 +108,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -81,9 +153,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -103,6 +187,30 @@
       "Date": "2026-03-31",
       "Slot Time": "13:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -117,9 +225,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -132,6 +252,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -153,9 +297,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -175,6 +331,30 @@
       "Date": "2026-03-31",
       "Slot Time": "14:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -189,9 +369,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -204,6 +396,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -225,9 +441,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -247,6 +475,30 @@
       "Date": "2026-03-31",
       "Slot Time": "15:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -261,9 +513,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -276,6 +540,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -297,9 +585,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -319,6 +619,30 @@
       "Date": "2026-03-31",
       "Slot Time": "16:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -333,9 +657,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -348,6 +684,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -369,9 +729,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -391,6 +763,30 @@
       "Date": "2026-03-31",
       "Slot Time": "17:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -405,9 +801,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -420,6 +828,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -441,9 +873,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 599,
-      "Original Price": 599
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Super 6 @666",
+      "Price": 666,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -456,6 +900,30 @@
       "Plan": "VEG",
       "Price": 599,
       "Original Price": 599
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 649,
+      "Original Price": 699
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -477,9 +945,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 749
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -489,9 +957,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@2849)",
-      "Price": 712,
-      "Original Price": 749
+      "Plan": "Cricket Mania(4@3149)",
+      "Price": 787,
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -502,18 +970,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 749,
       "Original Price": 749
     },
@@ -525,9 +981,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 849,
+      "Original Price": 849
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 749
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -538,8 +1006,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 429,
-      "Original Price": 429
+      "Price": 449,
+      "Original Price": 449
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -549,9 +1017,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 749
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -561,9 +1029,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@2849)",
-      "Price": 712,
-      "Original Price": 749
+      "Plan": "Cricket Mania(4@3149)",
+      "Price": 787,
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -574,18 +1042,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 749,
       "Original Price": 749
     },
@@ -597,9 +1053,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 849,
+      "Original Price": 849
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 749
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -610,8 +1078,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 429,
-      "Original Price": 429
+      "Price": 449,
+      "Original Price": 449
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -621,9 +1089,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 749
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -633,9 +1101,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@2849)",
-      "Price": 712,
-      "Original Price": 749
+      "Plan": "Cricket Mania(4@3149)",
+      "Price": 787,
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -646,18 +1114,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 749,
       "Original Price": 749
     },
@@ -669,9 +1125,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 849,
+      "Original Price": 849
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 749
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -682,8 +1150,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 429,
-      "Original Price": 429
+      "Price": 449,
+      "Original Price": 449
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -693,9 +1161,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 749
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -705,9 +1173,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@2849)",
-      "Price": 712,
-      "Original Price": 749
+      "Plan": "Cricket Mania(4@3149)",
+      "Price": 787,
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -718,18 +1186,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 749,
       "Original Price": 749
     },
@@ -741,9 +1197,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 849,
+      "Original Price": 849
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 749
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -754,8 +1222,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 429,
-      "Original Price": 429
+      "Price": 449,
+      "Original Price": 449
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -765,9 +1233,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 749
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -777,9 +1245,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@2849)",
-      "Price": 712,
-      "Original Price": 749
+      "Plan": "Cricket Mania(4@3149)",
+      "Price": 787,
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -790,18 +1258,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 749,
       "Original Price": 749
     },
@@ -813,9 +1269,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 849,
+      "Original Price": 849
+    },
+    {
+      "Branch": "Jessore Road, Barasat",
+      "Branch ID": "211",
+      "Date": "2026-03-31",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
       "Price": 699,
-      "Original Price": 749
+      "Original Price": 849
     },
     {
       "Branch": "Jessore Road, Barasat",
@@ -825,156 +1293,6 @@
       "Period": "Dinner",
       "Customer Type": "Child",
       "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 429,
-      "Original Price": 429
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@2849)",
-      "Price": 712,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Child",
-      "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 429,
-      "Original Price": 429
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@2849)",
-      "Price": 712,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Child",
-      "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 429,
-      "Original Price": 429
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@2849)",
-      "Price": 712,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Child",
-      "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 429,
-      "Original Price": 429
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 649,
-      "Original Price": 649
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@2849)",
-      "Price": 712,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Jessore Road, Barasat",
-      "Branch ID": "211",
-      "Date": "2026-03-31",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Child",
-      "Food Type": "VEG",
-      "Plan": "Kid (6-9 years)",
-      "Price": 429,
-      "Original Price": 429
-    }
-  ]
-}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
       "Price": 449,
       "Original Price": 449

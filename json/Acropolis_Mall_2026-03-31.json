@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25 12:17:51",
+  "generated_at": "2026-03-31 07:47:35",
   "records": [
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -11,7 +11,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -22,18 +34,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "12:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -45,9 +45,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -58,8 +70,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -71,7 +83,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -82,18 +106,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "12:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -105,9 +117,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -118,8 +142,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -131,7 +155,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -142,18 +178,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "13:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -165,9 +189,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -178,8 +214,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -191,7 +227,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -202,18 +250,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "13:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -225,9 +261,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -238,8 +286,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -251,7 +299,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -262,18 +322,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "14:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -285,9 +333,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -298,8 +358,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -311,7 +371,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -322,18 +394,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "14:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -345,9 +405,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -358,8 +430,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -371,7 +443,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -382,18 +466,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "15:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -405,9 +477,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -418,8 +502,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -431,7 +515,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -442,18 +538,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "15:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -465,9 +549,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -478,8 +574,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -491,7 +587,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -502,18 +610,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "16:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -525,9 +621,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -538,8 +646,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -551,7 +659,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -562,18 +682,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "16:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -585,9 +693,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -598,8 +718,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -611,7 +731,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -622,18 +754,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "17:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -645,9 +765,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -658,8 +790,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -671,7 +803,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -682,18 +826,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "17:30:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -705,9 +837,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -718,8 +862,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -731,7 +875,19 @@
       "Food Type": "NON-VEG",
       "Plan": "Sizzling 7 @777",
       "Price": 777,
-      "Original Price": 799
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3249)",
+      "Price": 812,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -742,18 +898,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 749,
-      "Original Price": 749
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "18:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 799,
       "Original Price": 799
     },
@@ -765,9 +909,21 @@
       "Period": "Lunch",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 899,
+      "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 699,
-      "Original Price": 799
+      "Price": 749,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -778,8 +934,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 449,
-      "Original Price": 449
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -789,31 +945,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3549)",
-      "Price": 887,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
     },
@@ -825,21 +957,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
-      "Original Price": 999
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -861,31 +981,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3549)",
-      "Price": 887,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
     },
@@ -897,21 +993,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
-      "Original Price": 999
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -933,31 +1017,7 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3549)",
-      "Price": 887,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
     },
@@ -969,21 +1029,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
-      "Price": 999,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 849,
-      "Original Price": 999
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1005,9 +1053,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3549)",
-      "Price": 887,
-      "Original Price": 999
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1017,9 +1065,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
+      "Plan": "Sizzling 6 @999",
+      "Price": 999,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1030,18 +1078,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 899,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 999,
       "Original Price": 999
     },
@@ -1053,9 +1089,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 1099,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 849,
-      "Original Price": 999
+      "Price": 949,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1077,9 +1125,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3549)",
-      "Price": 887,
-      "Original Price": 999
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1089,9 +1137,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Sizzling 8 @888",
-      "Price": 888,
-      "Original Price": 999
+      "Plan": "Sizzling 6 @999",
+      "Price": 999,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1102,18 +1150,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "VEG",
-      "Price": 899,
-      "Original Price": 899
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
       "Price": 999,
       "Original Price": 999
     },
@@ -1125,9 +1161,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "NON-VEG",
+      "Price": 1099,
+      "Original Price": 1099
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 849,
-      "Original Price": 999
+      "Price": 949,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1140,18 +1188,6 @@
       "Plan": "Kid (6-9 years)",
       "Price": 499,
       "Original Price": 499
-    },
-    {
-      "Branch": "Acropolis Mall, East Kolkata Township",
-      "Branch ID": "224",
-      "Date": "2026-03-31",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3549)",
-      "Price": 887,
-      "Original Price": 999
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1164,6 +1200,18 @@
       "Plan": "VEG / NON-VEG",
       "Price": 899,
       "Original Price": 899
+    },
+    {
+      "Branch": "Acropolis Mall, East Kolkata Township",
+      "Branch ID": "224",
+      "Date": "2026-03-31",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1185,9 +1233,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3549)",
-      "Price": 887,
-      "Original Price": 999
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1197,9 +1245,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 899,
-      "Original Price": 899
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1221,9 +1269,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3549)",
-      "Price": 887,
-      "Original Price": 999
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1233,9 +1281,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 899,
-      "Original Price": 899
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1257,9 +1305,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Cricket Mania(4@3549)",
-      "Price": 887,
-      "Original Price": 999
+      "Plan": "VEG / NON-VEG",
+      "Price": 899,
+      "Original Price": 899
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",
@@ -1269,9 +1317,9 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "VEG / NON-VEG",
-      "Price": 899,
-      "Original Price": 899
+      "Plan": "Cricket Mania(4@3849)",
+      "Price": 962,
+      "Original Price": 1099
     },
     {
       "Branch": "Acropolis Mall, East Kolkata Township",

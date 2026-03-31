@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25 12:35:08",
+  "generated_at": "2026-03-31 08:05:54",
   "records": [
     {
       "Branch": "Alcazar Mall, Jubilee Hills",
@@ -645,44 +645,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Alcazar Mall, Jubilee Hills",
-      "Branch ID": "117",
-      "Date": "2026-04-09",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "Alcazar Mall, Jubilee Hills",
-      "Branch ID": "117",
-      "Date": "2026-04-09",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Alcazar Mall, Jubilee Hills",
-      "Branch ID": "117",
-      "Date": "2026-04-09",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -717,44 +681,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Alcazar Mall, Jubilee Hills",
-      "Branch ID": "117",
-      "Date": "2026-04-09",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "Alcazar Mall, Jubilee Hills",
-      "Branch ID": "117",
-      "Date": "2026-04-09",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Alcazar Mall, Jubilee Hills",
-      "Branch ID": "117",
-      "Date": "2026-04-09",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -789,44 +717,8 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Super 6 @666",
-      "Price": 666,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Alcazar Mall, Jubilee Hills",
-      "Branch ID": "117",
-      "Date": "2026-04-09",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "VEG",
-      "Price": 599,
-      "Original Price": 599
-    },
-    {
-      "Branch": "Alcazar Mall, Jubilee Hills",
-      "Branch ID": "117",
-      "Date": "2026-04-09",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
       "Price": 699,
-      "Original Price": 699
-    },
-    {
-      "Branch": "Alcazar Mall, Jubilee Hills",
-      "Branch ID": "117",
-      "Date": "2026-04-09",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 649,
       "Original Price": 699
     },
     {
@@ -1024,6 +916,113 @@
     {
       "Branch": "Alcazar Mall, Jubilee Hills",
       "Branch ID": "117",
+      "Date": "2026-04-09",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Alcazar Mall, Jubilee Hills",
+      "Branch ID": "117",
+      "Date": "2026-04-09",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Alcazar Mall, Jubilee Hills",
+      "Branch ID": "117",
+      "Date": "2026-04-09",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 399,
+      "Original Price": 399
+    },
+    {
+      "Branch": "Alcazar Mall, Jubilee Hills",
+      "Branch ID": "117",
+      "Date": "2026-04-09",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Alcazar Mall, Jubilee Hills",
+      "Branch ID": "117",
+      "Date": "2026-04-09",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Alcazar Mall, Jubilee Hills",
+      "Branch ID": "117",
+      "Date": "2026-04-09",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 399,
+      "Original Price": 399
+    },
+    {
+      "Branch": "Alcazar Mall, Jubilee Hills",
+      "Branch ID": "117",
+      "Date": "2026-04-09",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Cricket Mania(4@2649)",
+      "Price": 662,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Alcazar Mall, Jubilee Hills",
+      "Branch ID": "117",
+      "Date": "2026-04-09",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "VEG / NON-VEG",
+      "Price": 699,
+      "Original Price": 699
+    },
+    {
+      "Branch": "Alcazar Mall, Jubilee Hills",
+      "Branch ID": "117",
+      "Date": "2026-04-09",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Child",
+      "Food Type": "VEG",
+      "Plan": "Kid (6-9 years)",
+      "Price": 399,
+      "Original Price": 399
+    }
+  ]
+}ID": "117",
       "Date": "2026-04-09",
       "Slot Time": "21:30:00",
       "Period": "Dinner",

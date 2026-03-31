@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25 12:07:10",
+  "generated_at": "2026-03-31 07:36:15",
   "records": [
     {
       "Branch": "City Plaza Building, Abids",
@@ -8,18 +8,6 @@
       "Slot Time": "12:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "12:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 399,
@@ -31,6 +19,42 @@
       "Date": "2026-03-31",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 399,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "12:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -44,8 +68,8 @@
       "Slot Time": "12:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
+      "Food Type": "VEG",
+      "Plan": "Big Buffet Veg",
       "Price": 399,
       "Original Price": 399
     },
@@ -56,10 +80,34 @@
       "Slot Time": "12:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "Big Buffet Veg",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "12:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
       "Price": 399,
-      "Original Price": 399
+      "Original Price": 449
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -80,18 +128,6 @@
       "Slot Time": "13:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "13:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 399,
@@ -103,6 +139,42 @@
       "Date": "2026-03-31",
       "Slot Time": "13:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 399,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "13:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -116,8 +188,8 @@
       "Slot Time": "13:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
+      "Food Type": "VEG",
+      "Plan": "Big Buffet Veg",
       "Price": 399,
       "Original Price": 399
     },
@@ -128,10 +200,34 @@
       "Slot Time": "13:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "Big Buffet Veg",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "13:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
       "Price": 399,
-      "Original Price": 399
+      "Original Price": 449
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -152,18 +248,6 @@
       "Slot Time": "14:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "14:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 399,
@@ -175,6 +259,42 @@
       "Date": "2026-03-31",
       "Slot Time": "14:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 399,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "14:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -188,8 +308,8 @@
       "Slot Time": "14:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
+      "Food Type": "VEG",
+      "Plan": "Big Buffet Veg",
       "Price": 399,
       "Original Price": 399
     },
@@ -200,10 +320,34 @@
       "Slot Time": "14:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "Big Buffet Veg",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "14:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
       "Price": 399,
-      "Original Price": 399
+      "Original Price": 449
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -224,18 +368,6 @@
       "Slot Time": "15:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "15:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 399,
@@ -247,6 +379,42 @@
       "Date": "2026-03-31",
       "Slot Time": "15:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 399,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "15:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -260,8 +428,8 @@
       "Slot Time": "15:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
+      "Food Type": "VEG",
+      "Plan": "Big Buffet Veg",
       "Price": 399,
       "Original Price": 399
     },
@@ -272,10 +440,34 @@
       "Slot Time": "15:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "Big Buffet Veg",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "15:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
       "Price": 399,
-      "Original Price": 399
+      "Original Price": 449
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -296,18 +488,6 @@
       "Slot Time": "16:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "16:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 399,
@@ -319,6 +499,42 @@
       "Date": "2026-03-31",
       "Slot Time": "16:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 399,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "16:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -332,8 +548,8 @@
       "Slot Time": "16:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
+      "Food Type": "VEG",
+      "Plan": "Big Buffet Veg",
       "Price": 399,
       "Original Price": 399
     },
@@ -344,10 +560,34 @@
       "Slot Time": "16:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "Big Buffet Veg",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "16:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
       "Price": 399,
-      "Original Price": 399
+      "Original Price": 449
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -368,18 +608,6 @@
       "Slot Time": "17:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "17:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 399,
@@ -391,6 +619,42 @@
       "Date": "2026-03-31",
       "Slot Time": "17:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 399,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "17:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -404,8 +668,8 @@
       "Slot Time": "17:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
+      "Food Type": "VEG",
+      "Plan": "Big Buffet Veg",
       "Price": 399,
       "Original Price": 399
     },
@@ -416,10 +680,34 @@
       "Slot Time": "17:30:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "VEG",
-      "Plan": "Big Buffet Veg",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "17:30:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
       "Price": 399,
-      "Original Price": 399
+      "Original Price": 449
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -440,18 +728,6 @@
       "Slot Time": "18:00:00",
       "Period": "Lunch",
       "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "18:00:00",
-      "Period": "Lunch",
-      "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
       "Price": 399,
@@ -463,6 +739,42 @@
       "Date": "2026-03-31",
       "Slot Time": "18:00:00",
       "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2026",
+      "Price": 405,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 449,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Student (10-21 yrs)",
+      "Price": 399,
+      "Original Price": 449
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "18:00:00",
+      "Period": "Lunch",
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
@@ -478,30 +790,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2026",
-      "Price": 405,
-      "Original Price": 449
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
       "Price": 449,
       "Original Price": 449
     },
@@ -513,9 +801,33 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2266",
+      "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "18:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 399,
-      "Original Price": 449
+      "Price": 449,
+      "Original Price": 499
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -526,8 +838,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 299,
-      "Original Price": 299
+      "Price": 329,
+      "Original Price": 329
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -538,30 +850,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2026",
-      "Price": 405,
-      "Original Price": 449
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
       "Price": 449,
       "Original Price": 449
     },
@@ -573,9 +861,33 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2266",
+      "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "19:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 399,
-      "Original Price": 449
+      "Price": 449,
+      "Original Price": 499
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -586,8 +898,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 299,
-      "Original Price": 299
+      "Price": 329,
+      "Original Price": 329
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -598,30 +910,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2026",
-      "Price": 405,
-      "Original Price": 449
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "19:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
       "Price": 449,
       "Original Price": 449
     },
@@ -633,9 +921,33 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2266",
+      "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "19:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 399,
-      "Original Price": 449
+      "Price": 449,
+      "Original Price": 499
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -646,8 +958,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 299,
-      "Original Price": 299
+      "Price": 329,
+      "Original Price": 329
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -658,30 +970,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2026",
-      "Price": 405,
-      "Original Price": 449
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "20:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
       "Price": 449,
       "Original Price": 449
     },
@@ -693,9 +981,33 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2266",
+      "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "20:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 399,
-      "Original Price": 449
+      "Price": 449,
+      "Original Price": 499
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -706,8 +1018,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 299,
-      "Original Price": 299
+      "Price": 329,
+      "Original Price": 329
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -718,30 +1030,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2026",
-      "Price": 405,
-      "Original Price": 449
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "20:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
       "Price": 449,
       "Original Price": 449
     },
@@ -753,9 +1041,33 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
+      "Plan": "Fab 5 @2266",
+      "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
       "Plan": "Student (10-21 yrs)",
-      "Price": 399,
-      "Original Price": 449
+      "Price": 449,
+      "Original Price": 499
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -766,8 +1078,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 299,
-      "Original Price": 299
+      "Price": 329,
+      "Original Price": 329
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -778,30 +1090,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2026",
-      "Price": 405,
-      "Original Price": 449
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "21:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
       "Price": 449,
       "Original Price": 449
     },
@@ -813,9 +1101,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 399,
-      "Original Price": 449
+      "Plan": "Fab 5 @2266",
+      "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "21:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -826,8 +1126,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 299,
-      "Original Price": 299
+      "Price": 329,
+      "Original Price": 329
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -838,30 +1138,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2026",
-      "Price": 405,
-      "Original Price": 449
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "21:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
       "Price": 449,
       "Original Price": 449
     },
@@ -873,9 +1149,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 399,
-      "Original Price": 449
+      "Plan": "Fab 5 @2266",
+      "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "21:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -886,8 +1174,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 299,
-      "Original Price": 299
+      "Price": 329,
+      "Original Price": 329
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -898,30 +1186,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2026",
-      "Price": 405,
-      "Original Price": 449
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "22:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
       "Price": 449,
       "Original Price": 449
     },
@@ -933,9 +1197,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 399,
-      "Original Price": 449
+      "Plan": "Fab 5 @2266",
+      "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "22:00:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -946,8 +1222,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 299,
-      "Original Price": 299
+      "Price": 329,
+      "Original Price": 329
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -958,30 +1234,6 @@
       "Customer Type": "Adult",
       "Food Type": "VEG",
       "Plan": "Big Buffet Veg",
-      "Price": 399,
-      "Original Price": 399
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Fab 5 @2026",
-      "Price": 405,
-      "Original Price": 449
-    },
-    {
-      "Branch": "City Plaza Building, Abids",
-      "Branch ID": "233",
-      "Date": "2026-03-31",
-      "Slot Time": "22:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Big Buffet Non-Veg",
       "Price": 449,
       "Original Price": 449
     },
@@ -993,9 +1245,21 @@
       "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
-      "Plan": "Student (10-21 yrs)",
-      "Price": 399,
-      "Original Price": 449
+      "Plan": "Fab 5 @2266",
+      "Price": 453,
+      "Original Price": 499
+    },
+    {
+      "Branch": "City Plaza Building, Abids",
+      "Branch ID": "233",
+      "Date": "2026-03-31",
+      "Slot Time": "22:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Big Buffet Non-Veg",
+      "Price": 499,
+      "Original Price": 499
     },
     {
       "Branch": "City Plaza Building, Abids",
@@ -1006,8 +1270,8 @@
       "Customer Type": "Child",
       "Food Type": "VEG",
       "Plan": "Kid (6-9 years)",
-      "Price": 299,
-      "Original Price": 299
+      "Price": 329,
+      "Original Price": 329
     }
   ]
 }
