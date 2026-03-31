@@ -1,16 +1,47 @@
-- name: Clean json directory
-  run: |
-    echo "🧹 Cleaning json directory..."
+name: JSON Cleanup
 
-    # Remove all files inside json
-    rm -rf json/*
+on:
+  workflow_dispatch:   # manual trigger
+  # schedule:
+  #   - cron: '0 0 * * *'   # optional daily run
 
-    # Recreate folder (safety)
-    mkdir -p json
+permissions:
+  contents: write
 
-    # Keep folder tracked by git
-    touch json/.keep
+jobs:
+  clean-json:
+    runs-on: ubuntu-latest
 
-    git add -A
-    git commit -m "Auto साफ: cleaned json directory" || echo "Nothing to commit"
-    git push
+    steps:
+      # ✅ Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      # ✅ Setup Git (VERY IMPORTANT)
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      # 🔥 CLEAN JSON DIRECTORY
+      - name: Clean json directory
+        run: |
+          echo "🧹 Cleaning json directory..."
+
+          # Remove all files inside json (safe)
+          if [ -d "json" ]; then
+            find json -type f ! -name '.keep' -delete
+          fi
+
+          # Ensure directory exists
+          mkdir -p json
+
+          # Keep folder tracked
+          touch json/.keep
+
+          # Commit and push
+          git add -A
+          git commit -m "Auto cleanup: cleaned json directory" || echo "Nothing to commit"
+          git push
