@@ -3,6 +3,8 @@
 import os
 import json
 from datetime import datetime, timedelta
+import re
+
 
 OUT_DIR = "json"
 SPLIT_COUNT = 3
@@ -173,9 +175,15 @@ def cleanup_old_files(out_dir=OUT_DIR, keep_days=15):
         try:
             # Extract date from filename
             # Example: Yelahanka_2026-03-22_123456.json
-            parts = fname.split("_")
-            date_str = parts[1]
-
+            
+            match = re.search(r"\d{4}-\d{2}-\d{2}", fname)
+            
+            if not match:
+                print(f"⚠️ No date found in {fname}")
+                continue
+            
+            date_str = match.group()
+            file_date = datetime.strptime(date_str, "%Y-%m-%d").date()
             file_date = datetime.strptime(date_str, "%Y-%m-%d").date()
 
             # ❌ Delete if older than today
