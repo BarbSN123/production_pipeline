@@ -1,47 +1,302 @@
-name: JSON Cleanup
+# name: BBQ Scraper Production
+
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '0 6 */3 * *'
+
+# permissions:
+#   contents: write
+
+# concurrency:
+#   group: bbq-production
+#   cancel-in-progress: false
+
+
+# jobs:
+
+# # -------------------------
+# # SCRAPERS (parallel)
+# # -------------------------
+#   scraper:
+#     runs-on: ubuntu-latest
+
+#     strategy:
+#       matrix:
+#         batch:
+#           - "0 12"
+#           - "12 24"
+#           - "24 36"
+#           - "36 48"
+#           - "48 50"
+
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4
+
+#       - name: Setup Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: "3.11"
+
+#       - run: pip install requests
+
+#       - name: Run scraper
+#         run: |
+#           start=$(echo "${{ matrix.batch }}" | cut -d' ' -f1)
+#           end=$(echo "${{ matrix.batch }}" | cut -d' ' -f2)
+
+#           export START_DATE=$(date +%Y-%m-%d)
+#           export END_DATE=$(date -d "+14 days" +%Y-%m-%d)
+          
+#           python main_prod.py $start $end
+          
+#       - name: Upload JSON artifacts
+#         uses: actions/upload-artifact@v4
+#         with:
+#           name: json_${{ matrix.batch }}_${{ github.run_id }}
+#           path: json/
+
+
+# # -------------------------
+# # MERGER
+# # -------------------------
+#   merger:
+#     needs: scraper
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4
+
+#       - name: Setup Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: "3.11"
+
+#       # 🔥 STEP 1: REMOVE OLD FILES FROM REPO FIRST
+#       - name: Remove old repo JSON
+#         run: |
+#           git config user.name "github-actions"
+#           git config user.email "actions@github.com"
+#           git rm -r -f --ignore-unmatch json || true
+#           mkdir -p json
+#           echo "✅ Old repo json removed"
+
+#       # 🧹 STEP 2: CLEAN LOCAL
+#       - name: Clean local JSON
+#         run: |
+#           rm -rf json
+#           mkdir json
+#           echo "✅ Local json cleaned"
+      
+#       # STEP 3.1: Clean temp files
+#       - name: Clean temp_data
+#         run: rm -rf temp_data || true
+        
+#       # 📥 STEP 3: DOWNLOAD NEW DATA
+#       # - name: Download artifacts (current only)
+#       #   uses: actions/download-artifact@v4
+#       #   with:
+#       #     path: temp_data
+#       #     merge-multiple: false
+
+#       - name: Download only current run artifacts
+#         uses: actions/download-artifact@v4
+#         with:
+#           pattern: json_*_${{ github.run_id }}
+#           path: temp_data
+#           merge-multiple: true
+
+#       # 📦 STEP 4: MOVE FILES
+#       - name: Move JSON files
+#         run: |
+#           find temp_data -name "*.json" -exec mv {} json/ \;
+#           rm -rf temp_data
+#           echo "✅ New files ready"
+
+#       # 🔍 DEBUG
+#       - name: Show files
+#         run: ls -l json/
+
+#       # 🧠 STEP 5: MERGE ONLY NEW FILES
+#       - name: Run merger
+#         run: python merger.py
+
+#       # 🚀 STEP 6: PUSH CLEAN DATA
+#       - name: Commit & Push
+#         run: |
+#           git add json/
+#           git diff --cached --quiet || git commit -m "Auto update buffet data"
+#           git push origin main
+
+
+# This is temporary mannual in case merger fails
+
+# name: Manual Merger Run (No Scraper)
+
+# on:
+#   workflow_dispatch:
+
+# permissions:
+#   contents: write
+
+# jobs:
+#   manual-merger:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       # 📥 Checkout repo (with your existing JSON files)
+#       - name: Checkout
+#         uses: actions/checkout@v4
+
+#       # 🐍 Setup Python
+#       - name: Setup Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: "3.11"
+
+#       # 🔥 Set correct 15-day range
+#       - name: Set date range
+#         run: |
+#           echo "START_DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
+#           echo "END_DATE=$(date -d '+14 days' +%Y-%m-%d)" >> $GITHUB_ENV
+
+#       # 🔍 Debug (optional but useful)
+#       - name: Show existing JSON files
+#         run: |
+#           echo "📂 Files in json folder:"
+#           ls -l json/ || echo "No json folder found"
+
+#       # 🧠 Run merger
+#       - name: Run merger
+#         run: python merger.py
+
+#       # 🚀 Commit & push results
+#       - name: Commit & Push
+#         run: |
+#           git config user.name "github-actions"
+#           git config user.email "actions@github.com"
+#           git add json/
+#           git diff --cached --quiet || git commit -m "Manual merger run (15-day filtered)"
+#           git push
+
+
+# Permanent Yaml With all improvements
+name: BBQ Scraper Production
 
 on:
-  workflow_dispatch:   # manual trigger
-  # schedule:
-  #   - cron: '0 0 * * *'   # optional daily run
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 */3 * *'
 
 permissions:
   contents: write
 
+concurrency:
+  group: bbq-production
+  cancel-in-progress: false
+
+
 jobs:
-  clean-json:
+
+# -------------------------
+# SCRAPERS
+# -------------------------
+  scraper:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        batch:
+          - "0 12"
+          - "12 24"
+          - "24 36"
+          - "36 48"
+          - "48 50"
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Run scraper
+        run: |
+          start=$(echo "${{ matrix.batch }}" | cut -d' ' -f1)
+          end=$(echo "${{ matrix.batch }}" | cut -d' ' -f2)
+
+          export START_DATE=$(date +%Y-%m-%d)
+          export END_DATE=$(date -d "+14 days" +%Y-%m-%d)
+
+          python main_prod.py $start $end
+
+      - name: Upload JSON artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: json_${{ matrix.batch }}_${{ github.run_id }}
+          path: json/
+
+
+# -------------------------
+# MERGER
+# -------------------------
+  merger:
+    needs: scraper
     runs-on: ubuntu-latest
 
     steps:
-      # ✅ Checkout repo
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
 
-      # ✅ Setup Git (VERY IMPORTANT)
-      - name: Setup Git
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ✅ SET DATE RANGE (CRITICAL FIX)
+      - name: Set date range
+        run: |
+          echo "START_DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
+          echo "END_DATE=$(date -d '+14 days' +%Y-%m-%d)" >> $GITHUB_ENV
+
+      # 🔥 REMOVE OLD DATA
+      - name: Remove old repo JSON
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-      # 🔥 CLEAN JSON DIRECTORY
-      - name: Clean json directory
-        run: |
-          echo "🧹 Cleaning json directory..."
-
-          # Remove all files inside json (safe)
-          if [ -d "json" ]; then
-            find json -type f ! -name '.keep' -delete
-          fi
-
-          # Ensure directory exists
+          git config user.email "actions@github.com"
+          git rm -r -f --ignore-unmatch json || true
           mkdir -p json
 
-          # Keep folder tracked
-          touch json/.keep
+      # 🧹 CLEAN LOCAL
+      - run: |
+          rm -rf json
+          mkdir json
 
-          # Commit and push
-          git add -A
-          git commit -m "Auto cleanup: cleaned json directory" || echo "Nothing to commit"
-          git push
+      # 📥 DOWNLOAD CURRENT RUN ONLY
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: json_*_${{ github.run_id }}
+          path: temp_data
+          merge-multiple: true
+
+      # 📦 MOVE FILES
+      - run: |
+          find temp_data -name "*.json" -exec mv {} json/ \;
+          rm -rf temp_data
+
+      # 🔍 DEBUG
+      - run: ls -l json/
+
+      # 🧠 MERGE
+      - name: Run merger
+        run: python merger.py
+
+      # 🚀 PUSH
+      - name: Commit & Push
+        run: |
+          git add json/
+          git diff --cached --quiet || git commit -m "Auto update buffet data"
+          git push origin main
