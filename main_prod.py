@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 import os
 
 # ========= CONFIG =========
-DAYS_AHEAD = 15   #  control future window
+DAYS_AHEAD = 0   #  control future window
 
 # ========= SCRIPT LIST =========
 files = [
