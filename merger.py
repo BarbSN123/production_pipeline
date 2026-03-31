@@ -154,6 +154,43 @@ def merge_all_jsons(out_dir=OUT_DIR):
     print("\n✅ Merge completed successfully")
     return True
 
+def cleanup_old_files(out_dir=OUT_DIR, keep_days=15):
+    from datetime import datetime, timedelta
 
+    print("\n🧹 Running date-based cleanup...")
+
+    today = datetime.now().date()
+    max_date = today + timedelta(days=keep_days)
+
+    for fname in os.listdir(out_dir):
+        if not fname.endswith(".json"):
+            continue
+
+        # Skip final merged files
+        if fname.startswith("buffet_data"):
+            continue
+
+        try:
+            # Extract date from filename
+            # Example: Yelahanka_2026-03-22_123456.json
+            parts = fname.split("_")
+            date_str = parts[1]
+
+            file_date = datetime.strptime(date_str, "%Y-%m-%d").date()
+
+            # ❌ Delete if older than today
+            if file_date < today:
+                os.remove(os.path.join(out_dir, fname))
+                print(f"🗑️ Deleted old file: {fname}")
+
+            # ❌ Delete if too far in future (safety)
+            elif file_date > max_date:
+                os.remove(os.path.join(out_dir, fname))
+                print(f"🗑️ Deleted future overflow: {fname}")
+
+        except Exception as e:
+            print(f"⚠️ Skipping {fname}: {e}")
+            
 if __name__ == "__main__":
     merge_all_jsons()
+    cleanup_old_files()
