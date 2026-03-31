@@ -133,7 +133,11 @@ def save_day_json(records, date_obj):
     """Save a single day’s data to /json/YYYY-MM-DD.json"""
     os.makedirs(OUT_DIR, exist_ok=True)
     date_str = date_obj.strftime("%Y-%m-%d")
-    out_path = os.path.join(OUT_DIR, f"Abids_{date_str}.json")
+    run_id = os.getenv("GITHUB_RUN_ID", str(int(time.time())))
+    job_id = os.getenv("GITHUB_RUN_ATTEMPT", "1")
+
+    
+    out_path = os.path.join(OUT_DIR, f"Abids_{date_str}_{run_id}_{job_id}.json")
 
     data = {
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -142,8 +146,6 @@ def save_day_json(records, date_obj):
 
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-
-    print(f"✅ Saved {len(records)} records → {out_path}")
     return out_path
 
 # ========== MAIN RUN ==========
