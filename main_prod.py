@@ -96,8 +96,8 @@ print("\n✅ Job completed")
 
 # ========= EMAIL =========
 def send_email():
-    sender_email = "mona100975@gmail.com"
-    sender_password = "ghdt vdgv bern hgur"
+    sender_email = "atlantaswork@gmail.com"
+    sender_password = "jppw uksg kdku qmbl"
     receiver_email = "bbqnation1010@gmail.com"
 
     subject = "Price Data Updated - BBQ"
