@@ -188,7 +188,6 @@ name: BBQ Scraper Production
 on:
   workflow_dispatch:
   schedule:
-    # - cron: '0 6 */3 * *'
     - cron: '30 8 * * *'
 
 permissions:
@@ -197,7 +196,6 @@ permissions:
 concurrency:
   group: bbq-production
   cancel-in-progress: false
-
 
 jobs:
 
@@ -229,10 +227,8 @@ jobs:
         run: |
           start=$(echo "${{ matrix.batch }}" | cut -d' ' -f1)
           end=$(echo "${{ matrix.batch }}" | cut -d' ' -f2)
-
           export START_DATE=$(date +%Y-%m-%d)
           export END_DATE=$(date -d "+14 days" +%Y-%m-%d)
-
           python main_prod.py $start $end
 
       - name: Upload JSON artifacts
@@ -256,26 +252,25 @@ jobs:
         with:
           python-version: "3.11"
 
-      # ✅ SET DATE RANGE (CRITICAL FIX)
+      # SET DATE RANGE
       - name: Set date range
         run: |
           echo "START_DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
           echo "END_DATE=$(date -d '+14 days' +%Y-%m-%d)" >> $GITHUB_ENV
 
-      # 🔥 REMOVE OLD DATA
+      # REMOVE OLD DATA FROM REPO
       - name: Remove old repo JSON
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git rm -r -f --ignore-unmatch json || true
-          mkdir -p json
 
-      # 🧹 CLEAN LOCAL
+      # CLEAN LOCAL
       - run: |
           rm -rf json
           mkdir json
 
-      # 📥 DOWNLOAD CURRENT RUN ONLY
+      # DOWNLOAD ARTIFACTS
       - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
@@ -283,19 +278,27 @@ jobs:
           path: temp_data
           merge-multiple: true
 
-      # 📦 MOVE FILES
+      # MOVE FILES
       - run: |
           find temp_data -name "*.json" -exec mv {} json/ \;
           rm -rf temp_data
 
-      # 🔍 DEBUG
+      # DEBUG
       - run: ls -l json/
 
-      # 🧠 MERGE
+      # MERGE
       - name: Run merger
         run: python merger.py
 
-      # 🚀 PUSH
-      - name: Commit & Push
+      # COMMIT (FORCE UPDATE ALWAYS)
+      - name: Commit & Push (force update)
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add json/
+
+          # Always commit even if no changes
+          git diff --cached --quiet && git commit --allow-empty -m "Daily BBQ JSON update $(date)" || git commit -m "Daily BBQ JSON update $(date)"
+
           git push origin main
