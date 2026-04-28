@@ -133,7 +133,7 @@ def save_day_json(records, date_obj):
     """Save a single day’s data to /json/YYYY-MM-DD.json"""
     os.makedirs(OUT_DIR, exist_ok=True)
     date_str = date_obj.strftime("%Y-%m-%d")
-   run_id = os.getenv("GITHUB_RUN_ID", str(int(time.time())))
+    run_id = os.getenv("GITHUB_RUN_ID", str(int(time.time())))
     job_id = os.getenv("GITHUB_RUN_ATTEMPT", "1")
 
     
