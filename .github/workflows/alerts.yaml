@@ -1,0 +1,94 @@
+name: BBQ Alerts
+
+on:
+  workflow_run:
+    workflows:
+      - "BBQ Scraper Production"
+    types:
+      - completed
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bbq-alerts
+  cancel-in-progress: false
+
+jobs:
+
+  alerts:
+
+    # Only run when the scraper workflow completed successfully
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ---------------------------------------------------
+      # CHECKOUT LATEST MAIN
+      # ---------------------------------------------------
+      #
+      # IMPORTANT:
+      # The merger job pushes a new commit.
+      # Therefore we intentionally checkout main,
+      # rather than workflow_run.head_sha.
+      #
+      # ---------------------------------------------------
+
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      # ---------------------------------------------------
+      # PYTHON
+      # ---------------------------------------------------
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ---------------------------------------------------
+      # RUN ALERT ENGINE
+      # ---------------------------------------------------
+
+      - name: Run alert engine
+        run: |
+          python alerts/alert_engine.py
+
+      # ---------------------------------------------------
+      # SHOW ALERT FILE
+      # ---------------------------------------------------
+
+      - name: Show alerts
+        run: |
+          echo "===== alerts.json ====="
+          cat alerts/alerts.json
+
+      # ---------------------------------------------------
+      # COMMIT ALERT DATA + SNAPSHOT
+      # ---------------------------------------------------
+
+      - name: Commit alert data
+        run: |
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add alerts/alerts.json
+          git add alerts/previous_snapshot.json
+
+          if git diff --cached --quiet; then
+
+            echo "No alert files changed."
+
+          else
+
+            git commit -m "Update BBQ alerts $(date)"
+
+            git push origin main
+
+          fi
