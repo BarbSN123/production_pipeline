@@ -686,36 +686,63 @@ ALERT_FILE = "alerts/alerts.json"
 #
 # =========================================================
 
-SMTP_SERVER = os.getenv(
-    "SMTP_SERVER",
-    "smtp.gmail.com"
-)
+# ====================================================================
+# When implementing the env perspective make this uncomment
+# =======================================================================
+# SMTP_SERVER = os.getenv(
+#     "SMTP_SERVER",
+#     "smtp.gmail.com"
+# )
 
-SMTP_PORT = int(
-    os.getenv(
-        "SMTP_PORT",
-        "587"
-    )
-)
+# SMTP_PORT = int(
+#     os.getenv(
+#         "SMTP_PORT",
+#         "587"
+#     )
+# )
 
-EMAIL_SENDER = os.getenv(
-    "EMAIL_SENDER"
-)
+# EMAIL_SENDER = os.getenv(
+#     "EMAIL_SENDER"
+# )
 
-EMAIL_PASSWORD = os.getenv(
-    "EMAIL_PASSWORD"
-)
+# EMAIL_PASSWORD = os.getenv(
+#     "EMAIL_PASSWORD"
+# )
 
+# EMAIL_RECIPIENTS = [
+#     os.getenv("EMAIL_RECIPIENT_1"),
+#     os.getenv("EMAIL_RECIPIENT_2"),
+# ]
+
+# # Remove empty recipient values
+# EMAIL_RECIPIENTS = [
+#     email
+#     for email in EMAIL_RECIPIENTS
+#     if email
+# ]
+
+# =========================================================
+# EMAIL CONFIGURATION
+# =========================================================
+
+SMTP_SERVER = "smtp.gmail.com"
+SMTP_PORT = 587
+
+# Email account that will SEND the alert
+EMAIL_SENDER = "YOUR_SENDER_EMAIL@gmail.com"
+
+# Gmail App Password
+#
+# IMPORTANT:
+# Use your Gmail App Password here,
+# NOT your normal Gmail password.
+#
+EMAIL_PASSWORD = "YOUR_GMAIL_APP_PASSWORD"
+
+# Two recipients
 EMAIL_RECIPIENTS = [
-    os.getenv("EMAIL_RECIPIENT_1"),
-    os.getenv("EMAIL_RECIPIENT_2"),
-]
-
-# Remove empty recipient values
-EMAIL_RECIPIENTS = [
-    email
-    for email in EMAIL_RECIPIENTS
-    if email
+    "FIRST_RECEIVER@gmail.com",
+    "SECOND_RECEIVER@gmail.com",
 ]
 
 
