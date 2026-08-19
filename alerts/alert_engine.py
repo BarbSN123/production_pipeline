@@ -729,20 +729,15 @@ SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
 # Email account that will SEND the alert
-EMAIL_SENDER = "YOUR_SENDER_EMAIL@gmail.com"
+EMAIL_SENDER = "atlantaswork@gmail.com"
 
-# Gmail App Password
-#
-# IMPORTANT:
-# Use your Gmail App Password here,
-# NOT your normal Gmail password.
-#
-EMAIL_PASSWORD = "YOUR_GMAIL_APP_PASSWORD"
+# Gmail Password
+EMAIL_PASSWORD = "jppw uksg kdku qmbl"
 
 # Two recipients
 EMAIL_RECIPIENTS = [
-    "FIRST_RECEIVER@gmail.com",
-    "SECOND_RECEIVER@gmail.com",
+    "ops.mis@absolute-barbecue.com",
+    "gaurav.a@absolute-barbecue.com",
 ]
 
 
