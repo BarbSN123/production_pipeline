@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29 00:32:23",
+  "generated_at": "2026-08-29 17:39:50",
   "records": [
     {
       "Branch": "City Plaza Building, Abids",
@@ -106971,6 +106971,20 @@
     {
       "Branch": "Banajara Hills, Hyderabad",
       "Branch ID": "25",
+      "Date": "2026-08-29",
+      "Slot Time": "12:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-08-29",
+      "Slot Time": "12:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
       "Date": "2026-08-30",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
@@ -108387,6 +108401,20 @@
     {
       "Branch": "Banajara Hills, Hyderabad",
       "Branch ID": "25",
+      "Date": "2026-08-30",
+      "Slot Time": "14:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-08-30",
+      "Slot Time": "15:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
       "Date": "2026-08-31",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
@@ -110091,6 +110119,13 @@
     {
       "Branch": "Banajara Hills, Hyderabad",
       "Branch ID": "25",
+      "Date": "2026-08-31",
+      "Slot Time": "13:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
       "Date": "2026-09-01",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
@@ -115163,6 +115198,69 @@
       "Plan": "Rakhi Special (4@3199)",
       "Price": 800,
       "Original Price": 849
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-03",
+      "Slot Time": "15:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-03",
+      "Slot Time": "15:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-03",
+      "Slot Time": "16:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-03",
+      "Slot Time": "16:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-03",
+      "Slot Time": "17:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-03",
+      "Slot Time": "17:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-03",
+      "Slot Time": "18:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-03",
+      "Slot Time": "18:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-03",
+      "Slot Time": "19:00:00",
+      "Error": "Failed to fetch"
     },
     {
       "Branch": "Banajara Hills, Hyderabad",
@@ -124931,6 +125029,20 @@
       "Plan": "Kid (6-9 years)",
       "Price": 449,
       "Original Price": 449
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-10",
+      "Slot Time": "18:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Banajara Hills, Hyderabad",
+      "Branch ID": "25",
+      "Date": "2026-09-10",
+      "Slot Time": "19:00:00",
+      "Error": "Failed to fetch"
     },
     {
       "Branch": "Banajara Hills, Hyderabad",
@@ -211599,6 +211711,20 @@
     {
       "Branch": "Chromepet",
       "Branch ID": "119",
+      "Date": "2026-08-29",
+      "Slot Time": "12:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-08-29",
+      "Slot Time": "13:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
       "Date": "2026-08-30",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
@@ -212955,6 +213081,13 @@
     {
       "Branch": "Chromepet",
       "Branch ID": "119",
+      "Date": "2026-08-30",
+      "Slot Time": "18:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
       "Date": "2026-08-31",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
@@ -214443,6 +214576,20 @@
     {
       "Branch": "Chromepet",
       "Branch ID": "119",
+      "Date": "2026-08-31",
+      "Slot Time": "13:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-08-31",
+      "Slot Time": "15:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
       "Date": "2026-09-01",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
@@ -218903,6 +219050,69 @@
       "Plan": "Rakhi Special (4@3299)",
       "Price": 825,
       "Original Price": 869
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-09-03",
+      "Slot Time": "17:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-09-03",
+      "Slot Time": "17:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-09-03",
+      "Slot Time": "18:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-09-03",
+      "Slot Time": "18:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-09-03",
+      "Slot Time": "19:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-09-03",
+      "Slot Time": "19:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-09-03",
+      "Slot Time": "20:00:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-09-03",
+      "Slot Time": "20:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-09-03",
+      "Slot Time": "21:00:00",
+      "Error": "Failed to fetch"
     },
     {
       "Branch": "Chromepet",
@@ -227487,6 +227697,13 @@
     {
       "Branch": "Chromepet",
       "Branch ID": "119",
+      "Date": "2026-09-10",
+      "Slot Time": "22:30:00",
+      "Error": "Failed to fetch"
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
       "Date": "2026-09-11",
       "Slot Time": "12:00:00",
       "Period": "Lunch",
@@ -228743,6 +228960,13 @@
       "Plan": "Kid (6-9 years)",
       "Price": 449,
       "Original Price": 449
+    },
+    {
+      "Branch": "Chromepet",
+      "Branch ID": "119",
+      "Date": "2026-09-11",
+      "Slot Time": "12:00:00",
+      "Error": "Failed to fetch"
     },
     {
       "Branch": "Chromepet",
@@ -349770,42 +349994,6 @@
       "Date": "2026-08-30",
       "Slot Time": "15:45:00",
       "Period": "Lunch",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Rakhi Special (4@3699)",
-      "Price": 925,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-08-30",
-      "Slot Time": "18:00:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Rakhi Special (4@3699)",
-      "Price": 925,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-08-30",
-      "Slot Time": "18:30:00",
-      "Period": "Dinner",
-      "Customer Type": "Adult",
-      "Food Type": "NON-VEG",
-      "Plan": "Rakhi Special (4@3699)",
-      "Price": 925,
-      "Original Price": 999
-    },
-    {
-      "Branch": "Grand HighStreet Mall, Hinjewadi",
-      "Branch ID": "269",
-      "Date": "2026-08-30",
-      "Slot Time": "19:00:00",
-      "Period": "Dinner",
       "Customer Type": "Adult",
       "Food Type": "NON-VEG",
       "Plan": "Rakhi Special (4@3699)",
