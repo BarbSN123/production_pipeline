@@ -62,7 +62,8 @@ files = [
     "fetch_push_json_Wakad.py",
     "fetch_push_json_WhiteField.py",
     "fetch_push_json_Waltair.py",
-    "fetch_push_json_Yelahanka.py"
+    "fetch_push_json_Yelahanka.py",
+    "fetch_push_json_mg_metropolitian.py"
 ]
 
 # ========= DATE RANGE =========
