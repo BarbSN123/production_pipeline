@@ -136,7 +136,7 @@ def save_day_json(records, date_obj):
     job_id = os.getenv("GITHUB_RUN_ATTEMPT", "1")
 
     
-    out_path = os.path.join(OUT_DIR, f"Nerul_Mumbai_{date_str}_{run_id}_{job_id}.json")
+    out_path = os.path.join(OUT_DIR, f"Mg_Metropolitian_{date_str}_{run_id}_{job_id}.json")
     #out_path = os.path.join(OUT_DIR, f"Nerul_Mumbai_{date_str}.json")
 
     data = {
