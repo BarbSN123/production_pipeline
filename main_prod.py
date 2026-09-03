@@ -63,7 +63,8 @@ files = [
     "fetch_push_json_WhiteField.py",
     "fetch_push_json_Waltair.py",
     "fetch_push_json_Yelahanka.py",
-    "fetch_push_json_mg_metropolitian.py"
+    # "fetch_push_json_mg_metropolitian.py" po was not there in original file name
+    "fetch_push_json_mg_metroplitian.py"
 ]
 
 # ========= DATE RANGE =========
