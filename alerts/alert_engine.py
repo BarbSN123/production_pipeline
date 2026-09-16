@@ -1298,15 +1298,307 @@ def display_alert(change):
             )
 
 
+# # =========================================================
+# # HTML EMAIL BODY
+# # =========================================================
+
+# def create_email_body(changes):
+
+#     summary = create_summary(
+#         changes
+#     )
+
+#     generated_at = datetime.now().strftime(
+#         "%Y-%m-%d %H:%M:%S"
+#     )
+
+#     html = f"""
+# <!DOCTYPE html>
+
+# <html>
+
+# <head>
+
+# <meta charset="UTF-8">
+
+# <style>
+
+# body {{
+#     font-family: Arial, sans-serif;
+#     background: #f5f5f5;
+#     padding: 20px;
+# }}
+
+# .container {{
+#     max-width: 800px;
+#     margin: auto;
+#     background: white;
+#     padding: 25px;
+#     border-radius: 10px;
+# }}
+
+# .summary {{
+#     background: #f0f0f0;
+#     padding: 15px;
+#     border-radius: 8px;
+#     margin-bottom: 20px;
+# }}
+
+# .alert {{
+#     border: 1px solid #dddddd;
+#     border-radius: 8px;
+#     padding: 18px;
+#     margin-bottom: 18px;
+# }}
+
+# .new {{
+#     border-left: 6px solid #2e7d32;
+# }}
+
+# .price {{
+#     border-left: 6px solid #f9a825;
+# }}
+
+# .removed {{
+#     border-left: 6px solid #c62828;
+# }}
+
+# .other {{
+#     border-left: 6px solid #1565c0;
+# }}
+
+# .label {{
+#     font-weight: bold;
+# }}
+
+# .change {{
+#     background: #f7f7f7;
+#     padding: 8px;
+#     border-radius: 5px;
+#     margin-top: 5px;
+# }}
+
+# .footer {{
+#     color: #777777;
+#     font-size: 12px;
+#     margin-top: 25px;
+# }}
+
+# </style>
+
+# </head>
+
+# <body>
+
+# <div class="container">
+
+# <h2>🔔 BBQ Buffet Alert</h2>
+
+# <p>
+# The buffet monitoring system detected
+# <strong>{len(changes)}</strong>
+# change(s).
+# </p>
+
+# <div class="summary">
+
+# <h3>📊 Summary</h3>
+
+# <ul>
+
+# <li>
+# 🆕 New:
+# <strong>{summary['new']}</strong>
+# </li>
+
+# <li>
+# 💰 Price Changed:
+# <strong>{summary['price_changed']}</strong>
+# </li>
+
+# <li>
+# 🗑️ Removed:
+# <strong>{summary['removed']}</strong>
+# </li>
+
+# <li>
+# ✏️ Other Changed:
+# <strong>{summary['other_changed']}</strong>
+# </li>
+
+# </ul>
+
+# </div>
+# """
+
+#     # =====================================================
+#     # EACH CHANGE
+#     # =====================================================
+
+#     for change in changes:
+
+#         change_type = change["type"]
+#         record = change["record"]
+
+#         if change_type == "NEW":
+
+#             title = "🆕 NEW BUFFET"
+#             css_class = "new"
+
+#         elif change_type == "PRICE_CHANGED":
+
+#             title = "💰 PRICE CHANGED"
+#             css_class = "price"
+
+#         elif change_type == "REMOVED":
+
+#             title = "🗑️ REMOVED"
+#             css_class = "removed"
+
+#         else:
+
+#             title = "✏️ OTHER CHANGE"
+#             css_class = "other"
+
+#         html += f"""
+# <div class="alert {css_class}">
+
+# <h3>{title}</h3>
+
+# <p>
+# <span class="label">Branch:</span>
+# {record.get('Branch')}
+# </p>
+
+# <p>
+# <span class="label">Branch ID:</span>
+# {record.get('Branch ID')}
+# </p>
+
+# <p>
+# <span class="label">Date:</span>
+# {record.get('Date')}
+# </p>
+
+# <p>
+# <span class="label">Slot Time:</span>
+# {record.get('Slot Time')}
+# </p>
+
+# <p>
+# <span class="label">Period:</span>
+# {record.get('Period')}
+# </p>
+
+# <p>
+# <span class="label">Customer Type:</span>
+# {record.get('Customer Type')}
+# </p>
+
+# <p>
+# <span class="label">Food Type:</span>
+# {record.get('Food Type')}
+# </p>
+
+# <p>
+# <span class="label">Plan:</span>
+# {record.get('Plan')}
+# </p>
+# """
+
+#         # -------------------------------------------------
+#         # NEW
+#         # -------------------------------------------------
+
+#         if change_type == "NEW":
+
+#             html += f"""
+# <p>
+# <span class="label">Price:</span>
+# ₹{record.get('Price')}
+# </p>
+
+# <p>
+# <span class="label">Original Price:</span>
+# ₹{record.get('Original Price')}
+# </p>
+# """
+
+#         # -------------------------------------------------
+#         # REMOVED
+#         # -------------------------------------------------
+
+#         elif change_type == "REMOVED":
+
+#             html += f"""
+# <p>
+# <span class="label">Last Price:</span>
+# ₹{record.get('Price')}
+# </p>
+
+# <p>
+# <span class="label">Original Price:</span>
+# ₹{record.get('Original Price')}
+# </p>
+# """
+
+#         # -------------------------------------------------
+#         # CHANGED
+#         # -------------------------------------------------
+
+#         else:
+
+#             html += """
+# <h4>Changes</h4>
+# """
+
+#             for field, values in change[
+#                 "changes"
+#             ].items():
+
+#                 html += f"""
+# <div class="change">
+
+# <strong>{field}</strong>:
+
+# {values['old']}
+
+# &nbsp;→&nbsp;
+
+# <strong>{values['new']}</strong>
+
+# </div>
+# """
+
+#         html += """
+# </div>
+# """
+
+#     html += f"""
+
+# <div class="footer">
+
+# Generated automatically at
+# {generated_at}
+
+# </div>
+
+# </div>
+
+# </body>
+
+# </html>
+# """
+
+#     return html
+
 # =========================================================
-# HTML EMAIL BODY
+# SHORT HTML EMAIL BODY
 # =========================================================
 
 def create_email_body(changes):
 
-    summary = create_summary(
-        changes
-    )
+    summary = create_summary(changes)
 
     generated_at = datetime.now().strftime(
         "%Y-%m-%d %H:%M:%S"
@@ -1326,62 +1618,44 @@ def create_email_body(changes):
 body {{
     font-family: Arial, sans-serif;
     background: #f5f5f5;
-    padding: 20px;
+    padding: 15px;
 }}
 
 .container {{
-    max-width: 800px;
+    max-width: 600px;
     margin: auto;
     background: white;
-    padding: 25px;
-    border-radius: 10px;
+    padding: 20px;
+    border-radius: 8px;
 }}
 
-.summary {{
-    background: #f0f0f0;
-    padding: 15px;
-    border-radius: 8px;
+.header {{
+    text-align: center;
     margin-bottom: 20px;
 }}
 
-.alert {{
+.summary {{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}}
+
+.summary th,
+.summary td {{
     border: 1px solid #dddddd;
-    border-radius: 8px;
-    padding: 18px;
-    margin-bottom: 18px;
+    padding: 10px;
+    text-align: center;
 }}
 
-.new {{
-    border-left: 6px solid #2e7d32;
-}}
-
-.price {{
-    border-left: 6px solid #f9a825;
-}}
-
-.removed {{
-    border-left: 6px solid #c62828;
-}}
-
-.other {{
-    border-left: 6px solid #1565c0;
-}}
-
-.label {{
-    font-weight: bold;
-}}
-
-.change {{
-    background: #f7f7f7;
-    padding: 8px;
-    border-radius: 5px;
-    margin-top: 5px;
+.summary th {{
+    background: #f0f0f0;
 }}
 
 .footer {{
     color: #777777;
-    font-size: 12px;
-    margin-top: 25px;
+    font-size: 11px;
+    text-align: center;
+    margin-top: 20px;
 }}
 
 </style>
@@ -1392,194 +1666,37 @@ body {{
 
 <div class="container">
 
+<div class="header">
+
 <h2>🔔 BBQ Buffet Alert</h2>
 
 <p>
-The buffet monitoring system detected
-<strong>{len(changes)}</strong>
-change(s).
+<strong>{len(changes)}</strong> change(s) detected
 </p>
-
-<div class="summary">
-
-<h3>📊 Summary</h3>
-
-<ul>
-
-<li>
-🆕 New:
-<strong>{summary['new']}</strong>
-</li>
-
-<li>
-💰 Price Changed:
-<strong>{summary['price_changed']}</strong>
-</li>
-
-<li>
-🗑️ Removed:
-<strong>{summary['removed']}</strong>
-</li>
-
-<li>
-✏️ Other Changed:
-<strong>{summary['other_changed']}</strong>
-</li>
-
-</ul>
 
 </div>
-"""
 
-    # =====================================================
-    # EACH CHANGE
-    # =====================================================
+<table class="summary">
 
-    for change in changes:
+<tr>
+    <th>🆕 New</th>
+    <th>💰 Price Changed</th>
+    <th>🗑️ Removed</th>
+    <th>✏️ Other Changed</th>
+</tr>
 
-        change_type = change["type"]
-        record = change["record"]
+<tr>
+    <td>{summary['new']}</td>
+    <td>{summary['price_changed']}</td>
+    <td>{summary['removed']}</td>
+    <td>{summary['other_changed']}</td>
+</tr>
 
-        if change_type == "NEW":
-
-            title = "🆕 NEW BUFFET"
-            css_class = "new"
-
-        elif change_type == "PRICE_CHANGED":
-
-            title = "💰 PRICE CHANGED"
-            css_class = "price"
-
-        elif change_type == "REMOVED":
-
-            title = "🗑️ REMOVED"
-            css_class = "removed"
-
-        else:
-
-            title = "✏️ OTHER CHANGE"
-            css_class = "other"
-
-        html += f"""
-<div class="alert {css_class}">
-
-<h3>{title}</h3>
-
-<p>
-<span class="label">Branch:</span>
-{record.get('Branch')}
-</p>
-
-<p>
-<span class="label">Branch ID:</span>
-{record.get('Branch ID')}
-</p>
-
-<p>
-<span class="label">Date:</span>
-{record.get('Date')}
-</p>
-
-<p>
-<span class="label">Slot Time:</span>
-{record.get('Slot Time')}
-</p>
-
-<p>
-<span class="label">Period:</span>
-{record.get('Period')}
-</p>
-
-<p>
-<span class="label">Customer Type:</span>
-{record.get('Customer Type')}
-</p>
-
-<p>
-<span class="label">Food Type:</span>
-{record.get('Food Type')}
-</p>
-
-<p>
-<span class="label">Plan:</span>
-{record.get('Plan')}
-</p>
-"""
-
-        # -------------------------------------------------
-        # NEW
-        # -------------------------------------------------
-
-        if change_type == "NEW":
-
-            html += f"""
-<p>
-<span class="label">Price:</span>
-₹{record.get('Price')}
-</p>
-
-<p>
-<span class="label">Original Price:</span>
-₹{record.get('Original Price')}
-</p>
-"""
-
-        # -------------------------------------------------
-        # REMOVED
-        # -------------------------------------------------
-
-        elif change_type == "REMOVED":
-
-            html += f"""
-<p>
-<span class="label">Last Price:</span>
-₹{record.get('Price')}
-</p>
-
-<p>
-<span class="label">Original Price:</span>
-₹{record.get('Original Price')}
-</p>
-"""
-
-        # -------------------------------------------------
-        # CHANGED
-        # -------------------------------------------------
-
-        else:
-
-            html += """
-<h4>Changes</h4>
-"""
-
-            for field, values in change[
-                "changes"
-            ].items():
-
-                html += f"""
-<div class="change">
-
-<strong>{field}</strong>:
-
-{values['old']}
-
-&nbsp;→&nbsp;
-
-<strong>{values['new']}</strong>
-
-</div>
-"""
-
-        html += """
-</div>
-"""
-
-    html += f"""
+</table>
 
 <div class="footer">
 
-Generated automatically at
-{generated_at}
+Generated automatically at {generated_at}
 
 </div>
 
